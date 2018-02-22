@@ -1,2 +1,3 @@
-# design-standards
-A guide to standards and methods for producing delightful technology applications.
+# Chicago Design System
+
+A guide to the design system used for producing delightful services and technology applications.
