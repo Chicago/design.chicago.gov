@@ -1,3 +1,2 @@
-# Hello World!
-
+# Welcome to the Chicago Design System
 
