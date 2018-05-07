@@ -4,7 +4,7 @@
 
 layout: home
 ---
-# Welcome to the Chicago Design System
+
 
 The Chicago Design System (CDS) is a guide to producing delightful services and technology applications for employees and residents of the City of Chicago.
 
