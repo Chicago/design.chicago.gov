@@ -17,7 +17,7 @@ title: Chicago Design System
 email: design-system@cityofchicago.org
 description: The Chicago Design System (CDS) is a guide to producing delightful services and technology applications for employees and residents of the City of Chicago.
 # >- this means to ignore newlines until "baseurl:" I didn't try this, though.
-baseurl: "/docs" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://chicago.github.io/design-system" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ChiDesignDir
 github_username:  chicago
