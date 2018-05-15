@@ -1,37 +1,67 @@
 
 
-## How To Get Started with the Chicago Design System.
+## How To Contribute to the Chicago Design System.
+
+This quick start guide will walk you through cloning the GitHub repository, as well as installing both Jekyll and Pattern Lab so you can start contributing to the Chicago Design System.
+
 
 ## GitHub
 
-1. Navigate to the Chicago Design System repository’s *Code* tab [here](https://github.com/Chicago/design-system).
-2. Click *Clone or download*.
-3. Copy the URL provided.
-4. Open your command line or Terminal application and enter the directory where you would like to copy the repository. This can be anywhere in your local file system, like your home directory. For example:
-> cd ~/
-5. Clone the repository by replacing <URL> with clone URL you copied in the previous step. The repository will be cloned into a new directory in this location.
-> git clone <URL>
-6. Navigate into the directory of the repository you just created. Replace with your own repository's name.
-> cd <REPOSITORY-NAME>
-7. Type:
-> git status
-git status is a command you will use often to verify the current state of your repository and the files it contains. Right now, we can see that we are on branch master, everything is up to date with origin/master and our working directory is clean.
+GitHub is used for version control of the Chicago Design System. To contribute to the project, you will fork a version of the main repository to edit.
+
+1. Navigate to the Chicago Design System repository [link](https://github.com/Chicago/design-system).
+2. In the top-right corner of the page, click **Fork**.
+3. You now have a forked copy of the original /Chicago/design-system repository.
+4. Go to the **code** section of your fork.
+5. Clock **Clone or download**
+6. Copy the URL provided.
+7. Open your command line or Terminal application and enter the directory where you would like to copy the repository.
+8. Clone the repository with the command below by replacing <URL> with clone URL you copied in the previous step. The repository will be cloned into a new directory in this location.
+```
+git clone `<URL>`
+```
+9. Navigate into the directory of the repository you just created with the command below.
+```
+cd design-system
+```
 
 ## Jekyll
 
-### Mac Install
+Jekyll is used to publish the Chicago Design System. You will need to install Jekyll in order to preview your changes to the CDS repository.
 
-(Go here)[https://jekyllrb.com/docs/quickstart/] for instructions on how to install Jekyll
+#### Mac Install
 
-Once Jekyll is installed, navigate to design-system/docs and run the command:
+[Go here](https://jekyllrb.com/docs/quickstart/) for instructions on how to install Jekyll.
 
-> bundle exec jekyll serve --baseurl ''
+Once Jekyll is installed, navigate to the docs folder in the design-system respository and run:
 
-You can then pull up http://localhost:4000/ in your browser to see the design standards
+```
+bundle exec jekyll serve --baseurl ''
+```
+
+You can then pull up http://localhost:4000/ in your browser to see the design standards local clone.
 
 ## Pattern Lab
 
-1. (for Mac) treehouse install stuff for each
+Pattern Lab is used to publish the atomic design elements of the Chiago Design System. You will need to install Pattern Lab as a submodule in order to edit and preview your changes to the CDS.
+
+#### Mac Install
+
+1. Install Node.js via a package manager ([link](https://nodejs.org/en/download/package-manager/#macos))
+2. Install pattern lab as a submodule by going to the design-system folder and using the command:
+
+```
+git submodule add https://github.com/Chicago/patternlab-node.git
+```
+3. Navigate to subfolder /pattern-lab-node
+4. Install dependencies using the command:
+```
+npm install
+```
+
+<!---
+## To delete:
+1. treehouse install stuff for each
 2. npm install stuff
 3. gulp install stuff https://github.com/gulpjs/gulp/blob/4.0/docs/getting-started.md
 4. Hey, you don't need to install Gulp.... so...
@@ -60,4 +90,4 @@ I removed Gulp.
 1. Install node: brew install etc.
 
 
-
+-->
