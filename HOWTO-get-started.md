@@ -43,18 +43,32 @@ You can then pull up http://localhost:4000/ in your browser to see the design st
 
 ## Pattern Lab
 
-Pattern Lab is used to publish the atomic design elements of the Chiago Design System. You will need to install Pattern Lab as a submodule in order to edit and preview your changes to the CDS.
+Pattern Lab is used to publish the atomic design elements of the Chiago Design System. You will need to install the CDS Pattern Lab fork in order to edit and preview your changes to the CDS.
 
-#### Mac Install
+#### Mac Install as submodule
 
 1. Install Node.js via a package manager ([link](https://nodejs.org/en/download/package-manager/#macos))
-2. Install pattern lab as a submodule by going to the design-system folder and using the command:
+2. Install the Pattern Lab submodule with the command 
+```
+git submodule init
+```
 
+#### Mac Install independently
+
+1. Install Node.js via a package manager ([link](https://nodejs.org/en/download/package-manager/#macos))
+2. Navigate to the Chicago Design System Pattern Lab repository [link](https://github.com/Chicago/patternlab-node).
+3. In the top-right corner of the page, click **Fork**.
+4. You now have a forked copy of the original /Chicago/design-system repository.
+5. Go to the **code** section of your fork.
+6. Clock **Clone or download**
+7. Copy the URL provided.
+8. Open your command line or Terminal application and enter the directory where you would like to copy the repository.
+9. Clone the repository with the command below by replacing <URL> with clone URL you copied in the previous step. The repository will be cloned into a new directory in this location.
 ```
-git submodule add https://github.com/Chicago/patternlab-node.git
+git clone `<URL>`
 ```
-3. Navigate to subfolder /pattern-lab-node
-4. Install dependencies using the command:
+10. Navigate to the new directory
+11. Install dependencies using the command:
 ```
 npm install
 ```
