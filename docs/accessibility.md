@@ -1,3 +1,9 @@
+---
+layout: page
+title: Accessibility
+permalink: /accessibility/
+---
+
 # accessibility.md
 
 

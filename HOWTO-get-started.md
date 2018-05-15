@@ -1,4 +1,15 @@
-## How we created the pattern library for the Chicago Design System.
+
+
+## How To Get Started with the Chicago Design System.
+
+## Jekyll
+
+Okay, then:
+
+bundle exec jekyll serve --baseurl ''
+
+
+## Pattern Lab
 
 1. (for Mac) treehouse install stuff for each
 2. npm install stuff
@@ -30,6 +41,3 @@ I removed Gulp.
 
 
 
-Okay, then:
-
-bundle exec jekyll serve --baseurl ''
