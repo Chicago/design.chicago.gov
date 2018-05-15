@@ -1,6 +1,3 @@
 [submodule "patternlab-node"]
 	path = patternlab-node
 	url = https://github.com/Chicago/patternlab-node.git
-[submodule "docs/patternlab-node"]
-	path = docs/patternlab-node
-	url = https://github.com/Chicago/patternlab-node.git
