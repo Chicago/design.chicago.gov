@@ -48,9 +48,10 @@ Pattern Lab is used to publish the atomic design elements of the Chiago Design S
 #### Mac Install as submodule
 
 1. Install Node.js via a package manager ([link](https://nodejs.org/en/download/package-manager/#macos))
-2. Install the Pattern Lab submodule with the command 
+2. Install the Pattern Lab submodule with the commands 
 ```
 git submodule init
+git submodule update
 ```
 
 #### Mac Install independently
@@ -102,6 +103,5 @@ I removed Gulp.
 
 0. Install homebrew.
 1. Install node: brew install etc.
-
 
 -->
