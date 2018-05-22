@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How to Get Started Contributing"
+title:  "How to Start Contributing"
 date:   2018-05-22 12:11:30 -0500
 categories: howto
 ---
