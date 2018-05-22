@@ -1,6 +1,6 @@
 ---
 layout: page
-title: City Identity
+title: Identity
 permalink: /identity/
 ---
 
