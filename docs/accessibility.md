@@ -4,8 +4,8 @@ title: Accessibility
 permalink: /accessibility/
 ---
 
-# accessibility.md
-
+# Standards
 
 https://developers.google.com/web/tools/lighthouse/
 
+# Examples
