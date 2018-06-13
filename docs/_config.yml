@@ -22,6 +22,7 @@ url: "https://chicagodesignsystem.org" # the base hostname & protocol for your s
 twitter_username: ChiDesignDir
 github_username:  chicago
 repository: "Chicago/design-system"
+google_analytics: "UA-120815826-1"
 
 # Build settings
 markdown: kramdown
