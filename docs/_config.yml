@@ -31,7 +31,21 @@ theme: minima
 plugins:
   - jekyll-feed
   
-  
+collections_dir: pages
+collections:
+  guides:
+    output: true
+    permalink: /:collection/:path
+  identity:
+    output: true
+    permalink: /:collection/:path
+  new-additions:
+    output: true
+    permalink: /:collection/:path
+  getting-started:
+    output: true
+    permalink: /:collection/:path
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
