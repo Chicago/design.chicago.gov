@@ -28,4 +28,24 @@ layout: default
   <div class="post-content">
     {{ content }}
   </div>
+
+{% assign parts = page.permalink | split: '/' %}
+{% assign keyIndex = parts.size | minus: 2 %}
+{% assign endURL = parts[keyIndex] %}
+
+<ol class="index-ol">
+  {% for collection in site.collections %}
+  {% if collection.label == page.collection %}
+    {% for link in collection.docs %}
+    {% if link.parent == endURL %}
+      <ol>
+        <li> <h2 class="index-link"> <a href="{{ link.url | prepend: site.baseurl }}"> {{ link.title }} </a> </h2> </li>
+        <li class = "index-description"> {{link.description}} </li> 
+      </ol>
+      {% endif %}
+      {% endfor %}
+    {% endif %}
+  {% endfor %}
+</ol>
+
 </article>
