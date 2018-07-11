@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 18F Resources
-permalink: /guides/accessibility-guides/18f-resources/index.html
+permalink: /guides/accessibility-guide/18f-resources/index.html
 parent: accessibility-guide
 ---
 

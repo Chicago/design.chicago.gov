@@ -13,7 +13,7 @@ layout: default
         {% assign check1 = page.title | downcase | replace:" ", "-" %}
         {% assign check2 = crumb | downcase %}
         {% if check1 != check2 %}
-        <a href="{% assign crumb_limit = forloop.index | plus: 1 %}{% for crumb in crumbs limit: crumb_limit %}{{ crumb | append: '/' }}{% endfor %}">{{ crumb | replace:'-',' '}}</a> &#9656;
+        <a class="breadcrumbs-link" href="{% assign crumb_limit = forloop.index | plus: 1 %}{% for crumb in crumbs limit: crumb_limit %}{{ crumb | append: '/' }}{% endfor %}">{{ crumb | replace:'-',' '}}</a> &#9656;
         {% endif %}
     {% endif %}
   {% endfor %}

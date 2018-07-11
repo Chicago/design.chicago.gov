@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title:  "How to Start Contributing"
 permalink: /getting-started/tutorials/how-to-start-contributing/index.html
 parent: tutorials
