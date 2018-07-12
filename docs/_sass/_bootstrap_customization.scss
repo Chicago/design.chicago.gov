@@ -133,6 +133,7 @@ table td { border: 1px solid $site-light-gray; }
 #logo-image {
     max-height: 60px;
     padding-bottom: .25em;
+    display: block;
 }
 
 @media screen and (max-width: 800px) { #logo-image { content:url("/assets/logoTablet.png"); max-height: 40px;} }

@@ -30,10 +30,10 @@ theme: minima
 
 plugins:
   - jekyll-feed
-  - jekyll-paginate
+ # - jekyll-paginate
   
-paginate: 5
-paginate_path: "/pages/blog/page:num/"
+# paginate: 5
+# paginate_path: "/pages/blog/page:num/"
 
 collections_dir: pages
 collections:
