@@ -13,7 +13,7 @@ layout: default
         {% assign check1 = page.title | downcase | replace:" ", "-" %}
         {% assign check2 = crumb | downcase %}
         {% if check1 != check2 %}
-        <a href="{% assign crumb_limit = forloop.index | plus: 1 %}{% for crumb in crumbs limit: crumb_limit %}{{ crumb | append: '/' }}{% endfor %}">{{ crumb | replace:'-',' '}}</a> &#9656;
+        <a class="breadcrumbs-link" href="{% assign crumb_limit = forloop.index | plus: 1 %}{% for crumb in crumbs limit: crumb_limit %}{{ crumb | append: '/' }}{% endfor %}">{{ crumb | replace:'-',' '}}</a> &#9656;
         {% endif %}
     {% endif %}
   {% endfor %}
@@ -36,13 +36,13 @@ layout: default
 <ol class="index-ol">
   {% for collection in site.collections %}
   {% if collection.label == page.collection %}
-    {% for link in collection.docs %}
-    {% if link.parent == endURL %}
+  
+    {% assign links = collection.docs | where: "parent",endURL %}
+    {% for link in links %}
       <ol>
         <li> <h2 class="index-link"> <a href="{{ link.url | prepend: site.baseurl }}"> {{ link.title }} </a> </h2> </li>
         <li class = "index-description"> {{link.description}} </li> 
       </ol>
-      {% endif %}
       {% endfor %}
     {% endif %}
   {% endfor %}
