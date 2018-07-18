@@ -1,0 +1,43 @@
+---
+layout: default
+---
+<article class="post">
+
+<div class="breadcrumbs">
+ {% assign crumbs = page.url | split: '/' %}
+ {% assign crumbs_total = crumbs | size | minus: 1 %}
+   {% for crumb in crumbs offset: 1 %}
+    {% if forloop.index == crumbs_total %}
+        {{ page.title | escape }}
+      {% else %}
+        {% assign check1 = page.title | downcase | replace:" ", "-" %}
+        {% assign check2 = crumb | downcase %}
+        {% if check1 != check2 %}
+        <a class="breadcrumbs-link" href="{% assign crumb_limit = forloop.index | plus: 1 %}{% for crumb in crumbs limit: crumb_limit %}{{ crumb | append: '/' }}{% endfor %}">{{ crumb | replace:'-',' '}}</a> &#9656;
+        {% endif %}
+    {% endif %}
+  {% endfor %}
+</div>
+
+<div class="card-large">
+    <ol class = "card-large-ol">
+        <li class = "card-large-main-info"> 
+            <ol>
+            <h1 class="card-large-title">{{page.title}}</h1>
+            <li class="card-large-description" id="what"><h2 class = "card-large.subheader">What</h2>{{page.what}}</li>
+            <li class="card-large-description" id="why"><h2 class = "card-large.subheader">Why</h2>{{page.why}}</li>
+            </ol>
+        </li>
+        <li class = "card-large-howto">
+            <div class="howto"><h2 class = "card-howto-header">How-To</h2>{{content}}</div>
+        </li>
+        <li class="card-large-details">
+            <ol>
+                <li class="card-detail-block" id="card-parent"><h3 class = "card-large-detail-subheader">Category</h3>{{page.parent | capitalize }}</li>
+                <li class="card-detail-block" id="card-time"><h3 class = "card-large-detail-subheader">Estimated Time</h3>{{page.time}}</li>
+                <li class="card-detail-block" id="card-resources"><h3 class = "card-large-detail-subheader">Additional Resources</h3>{{page.additional-resources}}</li>
+            </ol>
+        </li>
+    </ol>
+</div>
+
