@@ -17,3 +17,7 @@ The CDS is open source (under the MIT license), and contributions or commentary 
 You can get involved by giving us feedback, [writing an issue](https://github.com/Chicago/design-system/issues/new), or [finding other ways to contribute](https://opensource.guide/how-to-contribute/).
 
 We communicate about this project in our [CDS Slack workspace](https://chicagodesignsystem.slack.com/messages). Request an invitation by emailing us at [Chicago Design System](mailto:design.system@cityofchicago.org).
+
+
+
+<h2><a href="{{basesurl}}/getting-started/index.html"> How to Get Started with the Chicago Design System </a> </h2>

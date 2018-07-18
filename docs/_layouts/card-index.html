@@ -1,0 +1,47 @@
+---
+layout: default
+---
+<article class="post">
+
+<div class="breadcrumbs">
+ {% assign crumbs = page.url | split: '/' %}
+ {% assign crumbs_total = crumbs | size | minus: 1 %}
+   {% for crumb in crumbs offset: 1 %}
+    {% if forloop.index == crumbs_total %}
+        {{ page.title | escape }}
+      {% else %}
+        {% assign check1 = page.title | downcase | replace:" ", "-" %}
+        {% assign check2 = crumb | downcase %}
+        {% if check1 != check2 %}
+        <a class="breadcrumbs-link" href="{% assign crumb_limit = forloop.index | plus: 1 %}{% for crumb in crumbs limit: crumb_limit %}{{ crumb | append: '/' }}{% endfor %}">{{ crumb | replace:'-',' '}}</a> &#9656;
+        {% endif %}
+    {% endif %}
+  {% endfor %}
+</div>
+
+
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title | escape }}</h1>
+    <h3 class="post-description">{{page.description | escape}}</h3>
+  </header>
+
+  <div class="post-content">
+    {{ content }}
+  </div>
+
+{% assign parts = page.permalink | split: '/' %}
+{% assign keyIndex = parts.size | minus: 2 %}
+{% assign endURL = parts[keyIndex] %}
+<ol class="card-ol">
+  {% assign cards = site.playbook | where: "parent",endURL | sort: 'position' %}
+  {% for card in cards %}
+      <div class = "card-div"><ol>
+        <li><h3 class="card-title"> <a href="{{ card.url | prepend: site.baseurl }}"> {{ card.title }} </a></h3></li>
+        <li class = "card-description" id="what"> <h2 class = card.subheader>What</h2>{{card.what}} </li> 
+        <li class = "card-description" id="why"><h2 class = card.subheader>Why</h2>{{card.why}}</li>
+      </ol></div>
+    {% endfor %}
+
+</ol>
+
+</article>
