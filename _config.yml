@@ -13,22 +13,29 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Your awesome title
+title: Chicago Design System
 email: your-email@example.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+description: The Chicago Design System (CDS) is a guide to producing delightful services and technology applications for employees and residents of the City of Chicago.
+
+# GitHub information
+# This is used for adding an edit this page link to the footer
+github:
+  organization: chicago
+  repository: chicagodesignsystem.org
+  default_branch: master
+
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+# twitter_username: ChiDesignDir
+# github_username:  Chicago
 
 # Build settings
 markdown: kramdown
-theme: minima
+remote_theme: Chicago/design-cds-jekyll@peterson
+
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
