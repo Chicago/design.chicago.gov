@@ -16,16 +16,16 @@
 title: Chicago Design System
 email: your-email@example.com
 description: The Chicago Design System (CDS) is a guide to producing delightful services and technology applications for employees and residents of the City of Chicago.
-
+name: The Chicago Design System # (full project name)
 # GitHub information
 # This is used for adding an edit this page link to the footer
-github:
-  organization: Chicago
-  repository: chicagodesignsystem.org
-  default_branch: master
+# github:
+#   organization: Chicago
+#   repository: chicagodesignsystem.org
+#   default_branch: master
 
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+# baseurl: "" # the subpath of your site, e.g. /blog
+url: https://chicagodesignsystem.org # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: ChiDesignDir
 # github_username:  Chicago
 
