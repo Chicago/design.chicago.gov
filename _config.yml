@@ -20,7 +20,7 @@ description: The Chicago Design System (CDS) is a guide to producing delightful 
 # GitHub information
 # This is used for adding an edit this page link to the footer
 github:
-  organization: chicago
+  organization: Chicago
   repository: chicagodesignsystem.org
   default_branch: master
 

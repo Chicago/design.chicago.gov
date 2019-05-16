@@ -47,3 +47,24 @@ end
 [2019-05-15 17:18:38] ERROR `/favicon-16x16.png' not found.
 
 from design-cds-jekyll
+
+copied
+  android-chrome-192x192.png
+  android-chrome-256x256.png
+  apple-touch-icon.png
+  browserconfig.xml
+  favicon-16x16.png
+  favicon-32x32.png
+  favicon.ico
+  mstile-150x150.png
+  safari-pinned-tab.svg
+  site.webmanifest
+
+  to / directory, to serve favicons in a modern and predictable way for most requests.
+
+
+  10. add accessibility and colophon.md statements.
+
+  *It is at this point that I am noting the need to take these steps and prepare them as a separate guide. IE– I will need to post these steps to show how to get these things running, and then I will post another guide that will be to create a basic repo that can be used for standing up a website in no time.
+
+  
