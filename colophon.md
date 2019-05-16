@@ -12,7 +12,7 @@ A colophon describes the methods, tools, and materials used to make a creative w
 
 ## History
 
-This version of the site was produced in May 2019, beginning as a reference implementation of the [Chicago Design System](http://chicagodesignsystem.org/). Highlights include a new brand and visual language and a more [accessible experience for Chicagoans](/accessibility). It was produced to refresh our look along with our new domain name, chicago.gov.
+This version of the site was produced in May 2019, beginning as a reference implementation of the [Chicago Design System](http://chicagodesignsystem.org/). Highlights include a new brand and visual language and a more [accessible experience for Chicagoans](/accessibility). It was produced to support a consistent and predictable user experience across all our applications and services.
 
 ## Technology
 
