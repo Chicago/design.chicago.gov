@@ -14,18 +14,17 @@
 primary:
   - text: Accessibility
     href: /accessibility
-  - text: Patterns
+  - text: UI patterns
     href: https://patterns.chicagodesignsystem.org
-  - text: Playbook
+  - text: Design methods
     href: https://methods.chicagodesignsystem.org
-  - text: City Homepage
-    href: https://www.chicago.gov
-    external: true
+  - text: Accessibility statement
+    href: /accessibility-statement
 
 secondary:
   - text: Quick Start Guide
     href: /docs/
-  - text: City Homepage
+  - text: chicago.gov
     href: https://www.chicago.gov
     external: true
 
@@ -89,10 +88,9 @@ accessibility:
 footer:
   - text: Accessibility
     href: /accessibility
-  - text: Patterns
+  - text: UI patterns
     href: https://patterns.chicagodesignsystem.org
-  - text: Playbook
+  - text: Design methods
     href: https://methods.chicagodesignsystem.org
-  - text: City Homepage
-    href: https://www.chicago.gov 
-    external: true
+  - text: Accessibility statement
+    href: /accessibility-statement
