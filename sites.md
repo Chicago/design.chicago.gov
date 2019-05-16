@@ -1,8 +1,9 @@
 ---
 title: Sites using the Chicago Design System
-permalink: /sites
 
+permalink: /sites/
 layout: page
+filename: sites.md
 
 ---
 
