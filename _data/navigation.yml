@@ -18,6 +18,8 @@ primary:
     href: https://patterns.chicagodesignsystem.org
   - text: Design methods
     href: https://methods.chicagodesignsystem.org
+  - text: Sites
+    href: /sites
   - text: Accessibility statement
     href: /accessibility-statement
 
@@ -92,5 +94,7 @@ footer:
     href: https://patterns.chicagodesignsystem.org
   - text: Design methods
     href: https://methods.chicagodesignsystem.org
+  - text: Sites
+    href: /sites
   - text: Accessibility statement
     href: /accessibility-statement
