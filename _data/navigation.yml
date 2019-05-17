@@ -14,8 +14,8 @@
 primary:
   - text: Accessibility
     href: /accessibility
-  - text: UI patterns
-    href: https://patterns.chicagodesignsystem.org
+  # - text: UI patterns
+  #   href: https://patterns.chicagodesignsystem.org
   - text: Design methods
     href: https://methods.chicagodesignsystem.org
   - text: Sites
@@ -90,8 +90,8 @@ accessibility:
 footer:
   - text: Accessibility
     href: /accessibility
-  - text: UI patterns
-    href: https://patterns.chicagodesignsystem.org
+  # - text: UI patterns
+  #   href: https://patterns.chicagodesignsystem.org
   - text: Design methods
     href: https://methods.chicagodesignsystem.org
   - text: Sites
