@@ -30,13 +30,15 @@ In general, the City of Chicago follows [WCAG2.0 AA](https://www.w3.org/TR/WCAG2
 
 [See our Accessibility Standards](/accessibility){: .usa-button .usa-button-medium }
 
-<!-- ## UI patterns
+## UI patterns
 
 The CDS Pattern Library is a complete repository of our colors, fonts, and styles. It gives you the exact details to set the standard for what to implement on your site. At the same time, the Pattern Library offers assets and resources to cut down on time and standardize city sites.
 
 When building your CDS site, make sure to reference the Pattern Library to bring your site as close as possible to the CDS standard. 
 
-[See our UI patterns](https://patterns.chicagodesignsystem.org/){: .usa-button .usa-button-medium } -->
+We are updating the code behind our UI patterns. Today, you can see our updated sticker sheet produced in Figma.
+ 
+[See our UI patterns](https://www.figma.com/file/g9vsh5gXm99OgZR4OGiOIm/Chicago-Design-System-Component-Library-sticker-sheet?node-id=0%3A1){: .usa-button .usa-button-medium }
 
 ## Design methods 
 
