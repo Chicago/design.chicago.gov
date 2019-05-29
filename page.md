@@ -1,7 +1,7 @@
 ---
 title: Quick Start Guide
-description: This is a documentation page on how to get started with the Chicago Design System.
-permalink: /docs/
+description: A guide to using Chicago Design System visual assets, code, methods and other considerations.
+permalink: /start/
 
 layout: post
 sidenav: pages
@@ -143,10 +143,6 @@ bundle exec jekyll serve --baseurl ''
 
 You can then pull up http://localhost:4000/ in your browser to see the design standards local clone.
 
-## Pattern Lab
-
-Pattern Lab is used to publish the atomic design elements of the Chiago Design System. You will need to install the CDS Pattern Lab fork in order to edit and preview your changes to the CDS pattern library. [Go here](http://patternlab.io/) for more information on Pattern Lab and atomic design.
-
 <!---
 #### Mac Install as submodule
 
@@ -173,21 +169,7 @@ git submodule update
 git clone <URL>
 ```
 10. Navigate to the new directory
-11. Install dependencies using the command:
-```
-npm install
-```
-12. If necessary, install gulp using the command:
-```
-npm install gulp
-```
-13. Serve the patternlab site using the command:
-```
-gulp patternlab:serve
-```
-14. A browser window will open with the generated static pattern lab library.
 
-***
 
 
 # Notes on making a project to use the Chicago Design System
@@ -258,4 +240,14 @@ copied
 
   *It is at this point that I am noting the need to take these steps and prepare them as a separate guide. IE– I will need to post these steps to show how to get these things running, and then I will post another guide that will be to create a basic repo that can be used for standing up a website in no time.
 
-  
+
+
+
+# How I constructed the bundler, or any other new project you want to start with Jekyll and the Chicago Design System:
+
+1. Follow the instructions [here](https://jekyllrb.com/tutorials/using-jekyll-with-bundler/) for setup of a default jekyll site.
+
+
+
+
+

@@ -10,9 +10,9 @@ hero:
     alt: "Make Chicago"
     text: Better
   button:
-    href: /docs/
+    href: /start/
     text: Quick Start Guide
-  content: The Chicago Design System (CDS) is a toolkit to make great digital services for Chicagoans. [Get started](/docs) with the system, [share feedback](https://twitter.com/ChiDesignDir), [reporting a bug](https://github.com/Chicago/design-system/issues/new), or [find other ways to contribute](https://opensource.guide/how-to-contribute/). Request an invitation to our [Slack](https://chicagodesignsystem.slack.com/messages) chat workspace via email at [Chicago Design System](mailto:design.system@cityofchicago.org).
+  content: The Chicago Design System (CDS) is a toolkit to make great digital services for Chicagoans. [Get started](/start/) with the system, [share feedback](https://twitter.com/ChiDesignDir), [reporting a bug](https://github.com/Chicago/design-system/issues/new), or [find other ways to contribute](https://opensource.guide/how-to-contribute/). Request an invitation to our [Slack](https://chicagodesignsystem.slack.com/messages) chat workspace via email at [Chicago Design System](mailto:design.system@cityofchicago.org).
 
 tagline: About the Chicago Design System
 intro: |

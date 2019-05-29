@@ -25,7 +25,7 @@ primary:
 
 secondary:
   - text: Quick Start Guide
-    href: /docs/
+    href: /start/
   - text: chicago.gov
     href: https://www.chicago.gov
     external: true
