@@ -7,19 +7,25 @@ layout: home
 hero:
   image: /assets/uswds/img/hero.png
   callout:
-    alt: "Join Our Community"
-    text: Get started with the CDS
+    alt: "Make Chicago"
+    text: Better
   button:
     href: /docs/
     text: Quick Start Guide
-  content: You can get involved by giving us feedback, [writing an issue](https://github.com/Chicago/design-system/issues/new), or [finding other ways to contribute](https://opensource.guide/how-to-contribute/). We communicate about this project in our [CDS Slack workspace](https://chicagodesignsystem.slack.com/messages). Request an invitation by emailing us at [Chicago Design System](mailto:design.system@cityofchicago.org).
+  content: The Chicago Design System (CDS) is a toolkit to make great digital services for Chicagoans. [Get started](/docs) with the system, [share feedback](https://twitter.com/ChiDesignDir), [reporting a bug](https://github.com/Chicago/design-system/issues/new), or [find other ways to contribute](https://opensource.guide/how-to-contribute/). Request an invitation to our [Slack](https://chicagodesignsystem.slack.com/messages) chat workspace via email at [Chicago Design System](mailto:design.system@cityofchicago.org).
 
 tagline: About the Chicago Design System
 intro: |
-  The Chicago Design System (CDS) is a guide to producing delightful services and technology applications for employees and residents of the City of Chicago.
+  The Chicago Design System (CDS) includes several core components: a visual brand identity guide, a web user interface pattern library, and methods, or plays, teams can use to ensure we design with Chicagoans throughout the process. The CDS is a resource for teams to quickly and consistently produce delightful, useful, &amp; accessible digital services for residents, businesses, visitors, and employees of the City of Chicago.
 
-  The CDS is open source (under the CC0 1.0 License), and contributions or commentary from City of Chicago employees and the public at large are welcome. In its current form, the CDS is forked from the US Web Design System, and follows its baseline standards for design. We have begun adding our own "Chicago" theming on top of this system, and more work will be done to give the CDS a unique look and feel as time goes on.
+  We have three goals for the Chicago Design System\:
 
+  * Build trustworthy, predictable brands, services, and experiences
+  * Save money and time getting services to market
+  * Present Chicago as a modern, welcoming, global city
+  * Do work that helps other cities build their own design systems _(stretch goal)_ 
+
+  Chicago Design System code is built upon the [US Web Design System](https://designsystem.digital.gov). City of Chicago methods, visual identity, and additional user interface components wrap and extend these federal guidelines for design. The guides, identity, code, and visual representations of the design system are open source and in the public domain for use under the [Creative Commons CC0 1.0 License](https://creativecommons.org/publicdomain/zero/1.0/). Contributions and commentary from any and all are welcome. 
 ---
 
 ## Accessibility
