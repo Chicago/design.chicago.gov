@@ -13,25 +13,28 @@ sidenav:
     href: '/start/#developers'
   - text: Designers
     href: '/start/#designers'
-  - text: How to Contribute
-    href: '/start/#how-to-contribute-to-the-chicago-design-system'
 #  - text: Github
 #    href: '/start/#github'
 #  - text: Fractal
 #    href: '/start/#fractal'
+#  - text: How to Contribute
+#    href: '/start/#how-to-contribute-to-the-chicago-design-system'
 
 ---
 
-## Getting Started
+## Getting Started with the CDS
 
+### Visual assets
 
+### Code
+
+Our 
+
+### Methods & practices
 
  https://v2.designsystem.digital.gov/
 
 * the relationship between the CDS & USDS
-* using CDS code
-* using CDS visual assets
-* using CDS methods
 
 ## Everyone
 
