@@ -32,7 +32,7 @@ secondary:
 
 pages:
   - text: Quick Start Guide
-    href: /docs/
+    href: /start
   - text: Accessibility
     href: /accessibility/
   - text: City Homepage
