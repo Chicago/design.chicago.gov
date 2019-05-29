@@ -1,34 +1,58 @@
 ---
 title: Quick Start Guide
-description: A guide to using Chicago Design System visual assets, code, methods and other considerations.
+description: A guide to using Chicago Design System visual identity, code, and methods.
 permalink: /start/
 
-layout: post
-sidenav: pages
-subnav:
-  - text: How to Use the CDS
-    href: '#how-to-start-using-the-chicago-design-system'
+layout: page
+sidenav:
+  - text: Everyone
+    href: '/start/#everyone'
+  - text: City of Chicago Employees
+    href: '/start/#city-of-chicago-employees'
+  - text: Developers
+    href: '/start/#developers'
+  - text: Designers
+    href: '/start/#designers'
   - text: How to Contribute
-    href: '#how-to-contribute-to-the-chicago-design-system'
-  - text: Github
-    href: '#github'
-  - text: Fractal
-    href: '#fractal'
+    href: '/start/#how-to-contribute-to-the-chicago-design-system'
+#  - text: Github
+#    href: '/start/#github'
+#  - text: Fractal
+#    href: '/start/#fractal'
+
 ---
 
-# OUT OF DATE
+## Getting Started
 
-Hey folks. It's Kunesh. This guide is pretty out of date. I hope to change that shortly.
 
-If you have questions in the mean time, join our Slack channel. Thanks!
 
-## How to start using the Chicago Design System
+ https://v2.designsystem.digital.gov/
 
-Designers: Check out the [Getting Started for Designers](https://designsystem.digital.gov/getting-started/designers/) information.
+* the relationship between the CDS & USDS
+* using CDS code
+* using CDS visual assets
+* using CDS methods
+
+## Everyone
+
+Help make your city work better for all Chicagoans!
+
+You can review our status on much of our work on [our roadmap](https://github.com/Chicago/design-projects/projects/1). The Chicago Design System itself will soon have an [independent product roadmap](https://github.com/Chicago/chicagodesignsystem.org/projects/1).
+
+
+
+
+## City of Chicago Employees
+
+Interested in using this work in a technology project today? Have questions? We're here to help.
+
+Email design.system at cityofchicago.org to connect.
+
+## Developers
 
 Developers: Follow the instructions below to get started. For a fuller account of how to use the CDS fork of USWDS, go [here](https://github.com/uswds/uswds).
 
-## How to contribute to the Chicago Design System.
+### How to contribute to the Chicago Design System.
 
 This quick start guide will walk you through cloning the GitHub repository, as well as installing  Jekyll and Fractal so you can start contributing to the Chicago Design System. Once you've made edits to your local forks, you can submit a pull request through git/GitHub, which may be merged with the main project after review.
 
@@ -63,9 +87,9 @@ git clone <URL>
 cd design-library
 ```
 
-## Fractal
+<!-- ## Fractal
 
-Fractal is used to publish the atomic design elements of the Chiago Design System. You will need to install the CDS Fractal fork in order to edit and preview your changes to the CDS pattern library. [Go here](https://fractal.build/guide) for more information on Fractal and [here](http://bradfrost.com/blog/post/atomic-web-design/) for more information on atomic design.
+Fractal is used to publish the atomic design elements of the Chicago Design System. You will need to install the CDS Fractal fork in order to edit and preview your changes to the CDS pattern library. [Go here](https://fractal.build/guide) for more information on Fractal and [here](http://bradfrost.com/blog/post/atomic-web-design/) for more information on atomic design.
 
 1. If you haven't already, install npm. npm is a package manager for Node based projects. Below is a link to find the install method that coincides with your operating system:
     * Node v4.2.3+, [Installation guides](https://nodejs.org/en/download/)
@@ -94,10 +118,11 @@ fractal build
 8. Open the docs folder static site to make sure it generated correctly
 9. Sync with the repo
 10. Make a pull request
+ -->
 
-*** 
+## Designers
 
-
+Check out the [Getting Started for Designers](https://designsystem.digital.gov/getting-started/designers/) information.
 ## How To Contribute to the Chicago Design System.
 
 This quick start guide will walk you through cloning the GitHub repository, as well as installing  Jekyll and Pattern Lab so you can start contributing to the Chicago Design System. Once you've made edits to your local forks, you can submit a pull request through git/GitHub, which may be merged with the main project after review.
@@ -152,7 +177,6 @@ You can then pull up http://localhost:4000/ in your browser to see the design st
 git submodule init
 git submodule update
 ```
--->
 
 #### Mac Install
 
@@ -170,9 +194,12 @@ git clone <URL>
 ```
 10. Navigate to the new directory
 
-
+-->
 
 # Notes on making a project to use the Chicago Design System
+# How I constructed the bundler, or any other new project you want to start with Jekyll and the Chicago Design System:
+
+1. Follow the instructions [here](https://jekyllrb.com/tutorials/using-jekyll-with-bundler/) for setup of a default jekyll site.
 
 
 1. Make a new repo in GitHub
@@ -184,7 +211,8 @@ git clone <URL>
 7. Take these lines out of your Gemfile:
 
 
-```# This will help ensure the proper Jekyll version is running.
+```
+# This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
 gem "jekyll", "~> 3.8.5"
 
@@ -203,7 +231,8 @@ end
 
 8. Replace this with 
 
-``` gem "github-pages", group: :jekyll_plugins
+```
+gem "github-pages", group: :jekyll_plugins
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
@@ -215,7 +244,7 @@ end
 9. Include the following
 
 ```
-```[2019-05-15 17:18:38] ERROR `/site.webmanifest' not found.
+[2019-05-15 17:18:38] ERROR `/site.webmanifest' not found.
 [2019-05-15 17:18:38] ERROR `/favicon-32x32.png' not found.
 [2019-05-15 17:18:38] ERROR `/favicon-16x16.png' not found.
 
@@ -232,22 +261,12 @@ copied
   mstile-150x150.png
   safari-pinned-tab.svg
   site.webmanifest
+```
 
-  to / directory, to serve favicons in a modern and predictable way for most requests.
-
-
-  10. add accessibility and colophon.md statements.
-
-  *It is at this point that I am noting the need to take these steps and prepare them as a separate guide. IE– I will need to post these steps to show how to get these things running, and then I will post another guide that will be to create a basic repo that can be used for standing up a website in no time.
+to / directory, to serve favicons in a modern and predictable way for most requests.
 
 
+10. add accessibility and colophon.md statements.
 
-
-# How I constructed the bundler, or any other new project you want to start with Jekyll and the Chicago Design System:
-
-1. Follow the instructions [here](https://jekyllrb.com/tutorials/using-jekyll-with-bundler/) for setup of a default jekyll site.
-
-
-
-
+*It is at this point that I am noting the need to take these steps and prepare them as a separate guide. IE– I will need to post these steps to show how to get these things running, and then I will post another guide that will be to create a basic repo that can be used for standing up a website in no time.*
 

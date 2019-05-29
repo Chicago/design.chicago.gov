@@ -14,17 +14,17 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Chicago Design System # displays in header of site
-email: your-email@example.com
+email: design.system@cityofchicago.org
 description: The Chicago Design System (CDS) is a guide to producing delightful services and technology applications for employees and residents of the City of Chicago.
 name: The Chicago Design System # (full project name)
 subtitle: 
 
 # GitHub information
 # This is used for adding an edit this page link to the footer
-# github:
-#   organization: Chicago
-#   repository: chicagodesignsystem.org
-#   default_branch: master
+github:
+  organization: Chicago
+  repository: chicagodesignsystem.org
+  default_branch: master
 
 # baseurl: "" # the subpath of your site, e.g. /blog
 url: https://chicagodesignsystem.org # the base hostname & protocol for your site, e.g. http://example.com
