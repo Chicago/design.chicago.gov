@@ -22,6 +22,8 @@ primary:
     href: https://methods.chicagodesignsystem.org
   - text: Sites
     href: /sites
+  - text: Principles
+    href: /principles
   - text: Accessibility statement
     href: /accessibility-statement
 
@@ -93,5 +95,7 @@ footer:
     href: https://methods.chicagodesignsystem.org
   - text: Sites
     href: /sites
+  - text: Principles
+    href: /principles
   - text: Accessibility statement
     href: /accessibility-statement
