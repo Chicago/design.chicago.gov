@@ -21,10 +21,10 @@ subtitle:
 
 # GitHub information
 # This is used for adding an edit this page link to the footer
-github:
-  organization: Chicago
-  repository: chicagodesignsystem.org
-  default_branch: master
+# github:
+#   organization: Chicago
+#   repository: chicagodesignsystem.org
+#   default_branch: master
 
 # baseurl: "" # the subpath of your site, e.g. /blog
 url: https://chicagodesignsystem.org # the base hostname & protocol for your site, e.g. http://example.com
