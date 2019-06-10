@@ -5,7 +5,7 @@ permalink: /
 layout: home
 
 hero:
-  image: /assets/uswds/img/aerial-northside-water.png
+  image: /assets/img/aerial-northside-water.png
   callout:
     alt: "Make Chicago"
     text: Better
