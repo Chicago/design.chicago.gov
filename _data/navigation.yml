@@ -14,16 +14,10 @@
 primary:
   - text: Accessibility
     href: /accessibility
-#  - text: Design assets
-#    href: /assets
-#  - text: UI patterns
-#    href: https://patterns.chicagodesignsystem.org
   - text: Design methods
     href: https://methods.chicagodesignsystem.org
   - text: Sites
     href: /sites
-  # - text: Principles
-  #   href: /principles
   - text: Accessibility statement
     href: /accessibility-statement
 
@@ -87,15 +81,9 @@ accessibility:
 footer:
   - text: Accessibility
     href: /accessibility
-#  - text: Design assets
-#    href: /assets
-#  - text: UI patterns
-#    href: https://patterns.chicagodesignsystem.org
   - text: Design methods
     href: https://methods.chicagodesignsystem.org
   - text: Sites
     href: /sites
-  # - text: Principles
-  #   href: /principles
   - text: Accessibility statement
     href: /accessibility-statement
