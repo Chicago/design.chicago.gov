@@ -26,10 +26,13 @@ subtitle:
 #   repository: chicagodesignsystem.org
 #   default_branch: master
 
+google_analytics_ua: 'UA-120815826-1'
 # baseurl: "" # the subpath of your site, e.g. /blog
 url: https://chicagodesignsystem.org # the base hostname & protocol for your site, e.g. http://example.com
-# twitter_username: ChiDesignDir
+twitter_username: ChiDesignDir
 # github_username:  Chicago
+
+
 
 # Build settings
 markdown: kramdown
