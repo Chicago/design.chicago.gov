@@ -37,7 +37,6 @@ twitter_username: ChiDesignDir
 # Build settings
 markdown: kramdown
 remote_theme: Chicago/design-cds-jekyll
-
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
