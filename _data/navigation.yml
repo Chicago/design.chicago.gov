@@ -12,26 +12,41 @@
 #   links: primary
 #
 primary:
-  - text: Accessibility
-    href: /accessibility
-#  - text: Design assets
-#    href: /assets
-#  - text: UI patterns
-#    href: https://patterns.chicagodesignsystem.org
-  - text: Design methods
-    href: https://methods.chicagodesignsystem.org
-  - text: Sites
-    href: /sites
-  - text: Principles
-    href: /principles
+  - text: Chicago Design System
+    links:
+      - text: Accessibility
+        href: /accessibility
+      - text: Design assets
+        href: /assets
+      - text: Design methods
+        href: https://methods.chicagodesignsystem.org
+      - text: UI patterns
+        href: https://patterns.chicagodesignsystem.org
+      - text: Sites
+        href: /sites
+      - text: Quick Start Guide
+        href: /start/
+  - text: Design Office
+    links:
+      - text: About
+        href: /about/
+      - text: Blog
+        href: /blog
+      - text: Change log
+        href: /changelog
+      - text: Our Work
+        href: /our-work
+      - text: Principles
+        href: /principles
   - text: Accessibility statement
     href: /accessibility-statement
 
 secondary:
-  - text: Quick Start Guide
-    href: /start/
   - text: chicago.gov
     href: https://www.chicago.gov
+    external: true
+  - text: Department of Innovation & Technology
+    href: https://www.chicago.gov/city/en/depts/doit.html
     external: true
 
 accessibility:

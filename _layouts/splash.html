@@ -1,0 +1,72 @@
+---
+# this page is a copy of the default template
+# but then includes much more content related
+# to the display of every component we have..
+# 
+# layout: splash
+# permalink: /
+# title: Title of splash page
+# headline: Headline/lead of splash
+
+---
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: 'en-US' }}">
+  <head>
+    {% include meta.html %}
+    {% include styles.html %}
+    {% if site.google_analytics_ua or site.dap_agency %}
+      {% include analytics.html %}
+    {% endif %}
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+    <style>
+
+      #public-mark {
+         margin: auto;
+         padding: 18em 0;
+         width: 50%;
+      }
+      #welcome-to-the-chicago-design-system, #our-symbols, #more-stuff {
+        color: #E4002B;
+        font-family: Saira;
+        font-size: 96px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: 130px;
+        text-transform: uppercase;
+      }
+
+      #main-content-container {
+        background-image: url('./assets/img/Star construction_3-800.png');
+        background-repeat: no-repeat;
+        background-attachment: scroll;
+        background-position: right;
+        width: 100%;
+      }
+    </style>
+  </head>
+  <body class="{{ layout.class }} {{ page.class }} {% if site.site_width %}site-{{ site.site_width }}{% endif %}">
+
+    {% include skipnav.html %}
+    {% include components/banner.html %}
+    {% include header.html %}
+
+    <div id="main-content-container">
+      <main id="main-content">
+            {{ content }}
+      </main>
+    </div>
+
+    {% include footer.html %}
+
+    {% include scripts.html %}
+
+{% comment %} 
+ class="usa-grid usa-section usa-content"
+ 
+uncomment during local development
+<h1>design.chicago.gov: using local repo template page. rite?</h1>
+
+{% endcomment %}
+
+  </body>
+</html>
