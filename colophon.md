@@ -1,13 +1,8 @@
 ---
-layout: home
-
-hero:
-  image: /assets/img/2019-02-14_PP28143-downtown-river.jpg
+layout: page
+title: Colophon
 
 ---
-
-# Colophon
-
 A colophon describes the methods, tools, and materials used to make a creative work. Traditionally, colophons were included as the ending flourish of making a book. This is our colophon for how we produce {{ site.name }}.
 
 ## History

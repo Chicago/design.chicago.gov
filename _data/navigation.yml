@@ -12,7 +12,11 @@
 #   links: primary
 #
 primary:
-  - text: Chicago Design System
+  - text: About
+    href: /about/
+  - text: Blog
+    href: /blog
+  - text: Design System
     links:
       - text: Accessibility
         href: /accessibility
@@ -22,24 +26,20 @@ primary:
         href: https://methods.chicagodesignsystem.org
       - text: UI patterns
         href: https://patterns.chicagodesignsystem.org
-      - text: Sites
-        href: /sites
       - text: Quick Start Guide
         href: /start/
-  - text: Design Office
+  - text: Office
     links:
-      - text: About
-        href: /about/
-      - text: Blog
-        href: /blog
+      - text: About us
+        href: /about-us/
       - text: Change log
         href: /changelog
       - text: Our Work
         href: /our-work
-      - text: Principles
-        href: /principles
-  - text: Accessibility statement
-    href: /accessibility-statement
+      - text: Sites using the CDS
+        href: /sites
+  - text: Principles
+    href: /principles
 
 secondary:
   - text: chicago.gov
@@ -100,17 +100,17 @@ accessibility:
     href: '/accessibility/writing-guide/'
 
 footer:
+  - text: About
+    href: /about/
   - text: Accessibility
-    href: /accessibility
-#  - text: Design assets
-#    href: /assets
-#  - text: UI patterns
-#    href: https://patterns.chicagodesignsystem.org
-  - text: Design methods
-    href: https://methods.chicagodesignsystem.org
-  - text: Sites
-    href: /sites
+    href: /accessibility-statement
+  - text: Blog
+    href: /blog
+  - text: Colophon
+    href: /colophon
+  - text: Our Work
+    href: /our-work
   - text: Principles
     href: /principles
-  - text: Accessibility statement
-    href: /accessibility-statement
+  - text: Sites
+    href: /sites
