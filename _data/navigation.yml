@@ -23,7 +23,7 @@ primary:
       - text: Design assets
         href: /assets
       - text: Design methods
-        href: https://methods.chicagodesignsystem.org
+        href: https://chicago.github.io/design-methods
       - text: UI patterns
         href: https://patterns.chicagodesignsystem.org
       - text: Quick Start Guide
