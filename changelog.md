@@ -7,11 +7,17 @@ layout: post
 
 ## Turn and face the strange
 
-Here's all the new and wonderful stuff the [Design Office](/) has been working on:
+Here's all the new and wonderful stuff the [Design Office](https://design.chicago.gov/) has been working on:
 
 ![David Bowie Changes album cover](/assets/img/Bowiechanges2.jpg)
 
 ### September
+
+#### 2019-09-13 Friday
+
+* Round 90 of the payment calculator. Now it's a web page. Soon it will explain many things about the Mayor's new payment plan.
+* Design System, Design System, Design System.
+* Census 2020 support.
 
 #### 2019-09-06 Friday
 

@@ -21,7 +21,7 @@ The Design Office works to make city services more accessible and inclusive for 
 
 The Design Office uses human-centered design methods to develop digital experiences and services. Our Chicago Design System Methods are a catalog of the Chicago way of development and production. These are the services we currently offer, and have been adapted from the federal design process. Creating a well-designed, user-oriented product is of utmost importance, and as such our methods are focused around that goal.
 
-[See our Design Methods](https://methods.chicagodesignsystem.org/){: .usa-button .usa-button-medium }
+[See our Design Methods](https://chicago.github.io/design-methods){: .usa-button .usa-button-medium }
 
 ## Projects
 
