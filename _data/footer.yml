@@ -26,7 +26,7 @@ top:
 links: footer
 
 # Configuration for footer heading. (optional)
-heading: Chicago Design System
+heading: Chicago Design Office
 
 # Configuration for agency logo(s) (shown side by side).
 # If the logo is external add external: true
@@ -52,8 +52,16 @@ contact:
   #   href: https://usa.gov/
   #   external: true
   #   type: rss
-  heading: Contact the CDS
+  heading: Contact
 # Configuration for contact links for email, phone, etc...
   contact_links:
     - text: design.system@cityofchicago.org
       href: mailto:design.system@cityofchicago.org
+    - text: chicago.gov
+      href: https://www.chicago.gov
+      external: true
+    - text: Department of Innovation & Technology
+      href: https://www.chicago.gov/city/en/depts/doit.html
+      external: true
+    - text: "333 S State St #420 Chicago, IL 60604"
+      href: https://www.chicago.gov/city/en/depts/doit.html
