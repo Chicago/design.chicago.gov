@@ -13,6 +13,11 @@ Here's all the new and wonderful stuff the [Design Office](https://design.chicag
 
 ### September
 
+#### 2019-09-20 Friday
+
+* Launched design.chicago.gov, including messing around with DNS changes, Jekyll configuration settings, and all other kinds of gross code. Ew!
+
+
 #### 2019-09-13 Friday
 
 * Round 90 of the payment calculator. Now it's a web page. Soon it will explain many things about the Mayor's new payment plan.
