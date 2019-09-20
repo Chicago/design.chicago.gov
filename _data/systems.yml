@@ -1,0 +1,13 @@
+- title: Seal
+  description: da seal.
+  large_image: /assets/img/city-seal-black-2019.png
+  small_image: /assets/img/city-seal-black-2019.png
+  img_alt: hellooooo
+  year: 1837
+- title: Flag
+  description: da flag.
+  large_image: /assets/img/city-seal-black-2019.png
+  small_image: /assets/img/city-seal-black-2019.png
+  year: 1935
+  img_alt: hellooooo
+

@@ -44,7 +44,7 @@ plugins:
 #   - vendor/ruby/
 
 collections:
-  projects:
+  systems:
     output: true
     permalink: /:path/
 

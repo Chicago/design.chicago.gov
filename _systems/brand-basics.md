@@ -1,5 +1,5 @@
 ---
-  layout: project
+  layout: system
   title: Brand Basics
   permalink: /card-page/brand-basics
   description: Colors, type, icons, and the beloved Chicago Star.

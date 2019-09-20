@@ -1,5 +1,5 @@
 ---
-  layout: project
+  layout: system
   title: City Seal
   permalink: /card-page/city-seal
   description: The Seal of the City of Chicago

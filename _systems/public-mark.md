@@ -1,5 +1,5 @@
 ---
-  layout: project
+  layout: system
   title: Public Mark
   permalink: /card-page/public-mark
   description: The new City of Chicago mark for public communication.
