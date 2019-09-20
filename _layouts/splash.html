@@ -52,9 +52,17 @@
 
     <div id="main-content-container">
       <main id="main-content">
-            {{ content }}
+        {{ content }}
+        <div class="usa-grid">
+          <div class="usa-width-one-whole">
+            <h1 id="our-symbols">Our Symbols</h1>
+
+                {% include project-list.html %}
+          </div>
+        </div>
       </main>
     </div>
+
 
     {% include footer.html %}
 

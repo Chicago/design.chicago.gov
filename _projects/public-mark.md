@@ -1,8 +1,8 @@
 ---
   layout: project
-  title: City Seal
-  permalink: /card-page/city-seal
-  description: The Seal of the City of Chicago
+  title: Public Mark
+  permalink: /card-page/public-mark
+  description: The new City of Chicago mark for public communication.
   image_alt: The image alt text
   ---
 <div class="card-deck">
