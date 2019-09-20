@@ -31,12 +31,13 @@ permalink: /
   <div class="usa-width-one-whole">
     <h1 id="our-symbols">Our Symbols</h1>
 
-{{site.systems}}
-
     <div class="card-deck">
-      {% for item in site.systems %}
-        <div class="card">
-          <img class="card-img-top" src="{{ site.baseurl }}{{ item.small_image }}" alt="{{ item.image_alt }} ">
+      {% for item in site.data.systems %}
+        <div class="card{%if item.color %} card-{{item.color}}{%endif%}">
+          {% if item.small_image %}
+
+            <img class="card-img-top" src="{{ site.baseurl }}{{ item.small_image }}" alt="{{ item.image_alt }} ">
+          {% endif %}
           <div class="card-body">
             <h3 class="card-title">{{ item.title }}</h3>
             <p class="card-text">{{ item.description }}</p>

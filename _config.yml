@@ -17,7 +17,7 @@ title: Chicago Design System # displays in header of site
 email: design.system@cityofchicago.org
 description: The Chicago Design System (CDS) is a guide to producing delightful services and technology applications for employees and residents of the City of Chicago.
 name: The Chicago Design System # (full project name)
-subtitle: Mayor Lori E. Lightfoot
+# subtitle: Mayor Lori E. Lightfoot
 
 google_analytics_ua: 'UA-120815826-1'
 # baseurl: "" # the subpath of your site, e.g. /blog
