@@ -17,22 +17,12 @@ title: Chicago Design System # displays in header of site
 email: design.system@cityofchicago.org
 description: The Chicago Design System (CDS) is a guide to producing delightful services and technology applications for employees and residents of the City of Chicago.
 name: The Chicago Design System # (full project name)
-subtitle: 
-
-# GitHub information
-# This is used for adding an edit this page link to the footer
-# github:
-#   organization: Chicago
-#   repository: chicagodesignsystem.org
-#   default_branch: master
+subtitle: Mayor Lori E. Lightfoot
 
 google_analytics_ua: 'UA-120815826-1'
 # baseurl: "" # the subpath of your site, e.g. /blog
-url: https://chicagodesignsystem.org # the base hostname & protocol for your site, e.g. http://example.com
+url: https://design.chicago.gov # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ChiDesignDir
-# github_username:  Chicago
-
-
 
 # Build settings
 markdown: kramdown
@@ -45,10 +35,16 @@ plugins:
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
 # exclude:
-#   - Gemfile
-#   - Gemfile.lock
+  - Gemfile
+  - Gemfile.lock
 #   - node_modules
 #   - vendor/bundle/
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+collections:
+  projects:
+    output: true
+    permalink: /:path/
+
