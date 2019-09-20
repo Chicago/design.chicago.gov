@@ -12,41 +12,46 @@
 #   links: primary
 #
 primary:
-  - text: About
-    href: /about/
-  - text: Blog
-    href: /blog
   - text: Design System
+    links:
+      - text: All assets
+        href: /assets
+      - text: Basics
+        href: /basics
+      - text: City Seal
+        href: /city-seal
+      - text: Public Mark
+        href: /public-mark
+      - text: UI patterns
+        href: https://www.figma.com/file/g9vsh5gXm99OgZR4OGiOIm/Chicago-Design-System-Component-Library-sticker-sheet?node-id=0%3A1
+  - text: HOWTO
     links:
       - text: Accessibility
         href: /accessibility
-      - text: Design assets
-        href: /assets
       - text: Design methods
         href: https://chicago.github.io/design-methods
-      - text: UI patterns
-        href: https://www.figma.com/file/g9vsh5gXm99OgZR4OGiOIm/Chicago-Design-System-Component-Library-sticker-sheet?node-id=0%3A1
       - text: Quick Start Guide
         href: /start/
+      - text: Principles
+        href: /principles
   - text: Office
     links:
       - text: About us
         href: /about-us/
+      - text: Blog
+        href: /blog
       - text: Change log
         href: /changelog
       - text: Our Work
         href: /our-work
       - text: Sites using the CDS
         href: /sites
-  - text: Principles
-    href: /principles
 
 secondary:
+  - text: About
+    href: /about/
   - text: chicago.gov
     href: https://www.chicago.gov
-    external: true
-  - text: Department of Innovation & Technology
-    href: https://www.chicago.gov/city/en/depts/doit.html
     external: true
 
 accessibility:
