@@ -1,131 +1,81 @@
 - title: City Seal
   color: bahama-blue
-  text-color: 
   description: da seal.
-  large_image: /assets/img/city-seal-black-2019.png
-  small_image: /assets/img/city-seal-black-2019.png
   img_alt: hellooooo
   url: /city-seal
   year: 1837
-
 - title: Flag
   color: lochmara-blue
   description: da flag.
-  large_image: /assets/img/city-seal-black-2019.png
-  small_image: /assets/img/city-seal-black-2019.png
   img_alt: hellooooo
   url: /city-seal
   year: 1917
 - title: Everything
   color: flag-blue
   description: The whole shebang in one place–assets, colors, and all.
-  large_image: 
-  small_image: 
-  img_alt: 
   url: /assets
 - title: Basics
   color: malibu-blue
   description: 
-  large_image: 
-  small_image: /assets/img/colors-palette.png
   img_alt: 
   url: /basics
   year: 2019
 - title: Public Mark
   color: cornflower-blue
   description: 
-  large_image: 
-  small_image: 
-  img_alt: 
   url: /public-mark
   year: 2019
 - title: User Interface patterns
   color: bahama-blue
   description: 
-  large_image: 
-  small_image: 
-  img_alt: 
   url: https://www.figma.com/file/g9vsh5gXm99OgZR4OGiOIm/Chicago-Design-System-Component-Library-sticker-sheet?node-id=0%3A1
   year: 2019
 - title: Accessibility
   color: cornflower-blue
   description: 
-  large_image: 
-  small_image: 
-  img_alt: 
   url: /accessibility
 - title: Design methods
   color: lochmara-blue
   description: 
-  large_image: 
-  small_image: 
-  img_alt: 
   url: https://chicago.github.io/design-methods
 - title: Quick Start Guide
   color: malibu-blue
   description: 
-  large_image: 
-  small_image: 
-  img_alt: 
   url: /start/
 - title: Principles
   color: cornflower-blue
   description: 
-  large_image: 
-  small_image: 
-  img_alt: 
   url: /principles
   year: 
 - title: About us
   color: bahama-blue
   description: 
-  large_image: 
-  small_image: 
-  img_alt: 
   url: /about-us/
   year: 
 - title: Blog
   color: lochmara-blue
   description: 
-  large_image: 
-  small_image: 
-  img_alt: 
   url: /blog
   year: 
 - title: Change log
   color: flag-blue
   description: 
-  large_image: 
-  small_image: 
-  img_alt: 
   url: /changelog
   year: 
 - title: Our Work
   color: malibu-blue
   description: 
-  large_image: 
-  small_image: 
-  img_alt: 
   url: /our-work
   year: 
 - title: Sites
   color: lochmara-blue
   description: Sites using the CDS
-  large_image: 
-  small_image: 
-  img_alt: 
   url: /sites
 - title: About
   color: cornflower-blue
   description: About the Chicago Design System.
-  large_image: 
-  small_image: 
-  img_alt: 
   url: /sites
 - title: chicago.gov
   color: bahama-blue
   description: the City of Chicago website
-  large_image: 
-  small_image: 
-  img_alt: 
   url: https://www.chicago.gov
