@@ -19,29 +19,36 @@
     {% endif %}
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
     <style>
-
       #public-mark {
-         margin: 15% auto;
-         padding: 10% 0;
-         width: 50%;
+/*         margin: 22% auto;
+         padding: 9% 0;
+         width: 66%;
+*/      }
+      #public-mark img {
+         margin: 29% 0;
       }
+
+
       #welcome-to-the-chicago-design-system, #our-symbols, #more-stuff {
         color: #E4002B;
         font-family: Big Shoulders Text;
-        font-size: 96px;
-        font-style: extrabold;
-        font-weight: 700;
-        line-height: 130px;
+        font-size: 4em;
+        font-style: normal;
+        font-weight: 900;
         text-transform: uppercase;
       }
 
+      /*-800*/
+
       #main-content-container {
-        background-image: url('./assets/img/Star construction_3-800.png');
+        background-image: url('./assets/img/Star construction_3.png');
         background-repeat: no-repeat;
         background-attachment: scroll;
         background-position: right;
         width: 100%;
       }
+
+
     </style>
   </head>
   <body class="{{ layout.class }} {{ page.class }} {% if site.site_width %}site-{{ site.site_width }}{% endif %}">

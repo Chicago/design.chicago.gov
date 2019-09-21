@@ -1,5 +1,6 @@
 - title: City Seal
   color: bahama-blue
+  text-color: 
   description: da seal.
   large_image: /assets/img/city-seal-black-2019.png
   small_image: /assets/img/city-seal-black-2019.png
@@ -16,7 +17,7 @@
   url: /city-seal
   year: 1917
 - title: Everything
-  color: cornflower-blue
+  color: flag-blue
   description: The whole shebang in one place–assets, colors, and all.
   large_image: 
   small_image: 
@@ -92,7 +93,7 @@
   url: /blog
   year: 
 - title: Change log
-  color: cornflower-blue
+  color: flag-blue
   description: 
   large_image: 
   small_image: 
