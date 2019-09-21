@@ -19,6 +19,13 @@
     {% endif %}
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
     <style>
+
+      body {
+        background-image: url('./assets/img/Star construction_3.png');
+        background-repeat: no-repeat;
+        background-attachment: scroll;
+        background-position: bottom right;
+      }
       #public-mark {
 /*         margin: 22% auto;
          padding: 9% 0;
@@ -32,7 +39,7 @@
       #welcome-to-the-chicago-design-system, #our-symbols, #more-stuff {
         color: #E4002B;
         font-family: Big Shoulders Text;
-        font-size: 4em;
+        font-size: 6em;
         font-style: normal;
         font-weight: 900;
         text-transform: uppercase;
@@ -41,13 +48,13 @@
       /*-800*/
 
       #main-content-container {
-        background-image: url('./assets/img/Star construction_3.png');
+/*        background-image: url('./assets/img/Star construction_3.png');
         background-repeat: no-repeat;
         background-attachment: scroll;
         background-position: right;
         width: 100%;
-      }
-
+*/ 
+     }
 
     </style>
   </head>
@@ -63,18 +70,9 @@
       </main>
     </div>
 
-
     {% include footer.html %}
 
     {% include scripts.html %}
-
-{% comment %} 
- class="usa-grid usa-section usa-content"
- 
-uncomment during local development
-<h1>design.chicago.gov: using local repo template page. rite?</h1>
-
-{% endcomment %}
 
   </body>
 </html>
