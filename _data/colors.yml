@@ -1,0 +1,114 @@
+primary:
+- title: Black
+  color: "000000"
+  variable: $color-black
+- title: Flag Blue
+  color: 41B6E6
+  variable: $color-flag-blue
+- title: Star Red
+  color: E4002B
+  variable: $color-star-red
+- title: White
+  color: FFFFFF
+  variable: $color-white
+
+secondary:
+- title: Gray Dark
+  color: 4D4D4D
+  variable: $color-gray-dark
+- title: Gray Light
+  color: B3B3B3
+  variable: $color-gray-light
+- title: Gray Lighter
+  color: D9D9D9
+  variable: $color-gray-lighter
+- title: Gray Lightest
+  color: F1F1F1
+  variable: $color-gray-lightest
+- title: Bahama Blue
+  color: 005B99
+  variable: $color-bahama-blue, $color-secondary-darkest
+- title: Malibu Blue
+  color: 0075BB
+  variable: $color-malibu-blue, $color-secondary-dark
+- title: Lochmara Blue
+  color: 0092D1
+  variable: $color-lochmara-blue, $color-secondary-light
+- title: Cornflower Blue
+  color: A4D5EE
+  variable: $color-cornflower-blue, $color-secondary-lighter
+- title: Lake Michigan
+  color: E1F3F8
+  variable: $color-lake-michigan, $color-secondary-lightest
+
+tertiary:
+- title: Red Darkest
+  color: 981b1e
+  variable: $color-red-darkest
+- title: Red Dark
+  color: CC393E
+  variable: $color-red-dark
+- title: Red Light
+  color: E59393
+  variable: $color-red-light
+- title: Red Lightest
+  color: FBD9DF
+  variable: $color-red-lightest
+- title: Gold
+  color: FDB81E
+  variable: $color-gold
+- title: Gold Light
+  color: F9C642
+  variable: $color-gold-light
+- title: Gold Lighter
+  color: FAD980
+  variable: $color-gold-lighter
+- title: Gold Lightest
+  color: FFF1D2
+  variable: $color-gold-lightest
+- title: Green
+  color: 2E8540
+  variable: $color-green
+- title: Green Light
+  color: 4AA564
+  variable: $color-green-light
+- title: Green Lighter
+  color: 94BFA2
+  variable: $color-green-lighter
+- title: Green Lightest
+  color: E7F4E4
+  variable: $color-green-lightest
+
+background:
+- title: Gray Dark
+  color: 323A45
+  variable: $color-bkgd-gray-dark
+- title: Gray
+  color: 5B616B
+  variable: $color-bkgd-gray
+- title: Gray Light
+  color: AEB0B5
+  variable: $color-bkgd-gray-light
+- title: Gray Lighter
+  color: D6D7D9
+  variable: $color-bkgd-gray-lighter
+- title: Gray Warm Dark
+  color: 494440
+  variable: $color-bkgd-gray-warm-dark
+- title: Gray Warm Light
+  color: E4E2E0
+  variable: $color-bkgd-gray-warm-light
+- title: Gray Cool Dark
+  color: 112E51
+  variable: $color-bkgd-gray-cool-dark
+- title: Gray Cool Light
+  color: DCE4EF
+  variable: $color-gray-cool-light
+
+states:
+- title: Focus
+  color: 2C5491
+  variable: $color-focus
+- title: Visited
+  color: 4C2C92
+  variable: $color-visited
