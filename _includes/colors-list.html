@@ -1,0 +1,69 @@
+<h3>Primary</h3>
+<div class="card-deck">
+  {% for item in site.data.colors.primary %}
+  <div class="card">
+    <div class="card-color-swatch" style="background-color: #{{item.color}};">
+    </div>
+    <div class="card-body">
+      <h3 class="card-title">{{ item.title }}</h3>
+      <p class="card-text">{{ item.variable }}: #{{item.color}};</p>
+    </div>
+  </div>
+  {% endfor %}
+</div>
+
+<h3>Secondary</h3>
+<div class="card-deck">
+  {% for item in site.data.colors.secondary %}
+  <div class="card">
+    <div class="card-color-swatch" style="background-color: #{{item.color}};">
+    </div>
+    <div class="card-body">
+      <h3 class="card-title">{{ item.title }}</h3>
+      <p class="card-text">{{ item.variable }}: #{{item.color}};</p>
+    </div>
+  </div>
+  {% endfor %}
+</div>
+
+<h3>Tertiary</h3>
+<div class="card-deck">
+  {% for item in site.data.colors.tertiary %}
+  <div class="card">
+    <div class="card-color-swatch" style="background-color: #{{item.color}};">
+    </div>
+    <div class="card-body">
+      <h3 class="card-title">{{ item.title }}</h3>
+      <p class="card-text">{{ item.variable }}: #{{item.color}};</p>
+    </div>
+  </div>
+  {% endfor %}
+</div>
+
+<h3>Background</h3>
+<div class="card-deck">
+  {% for item in site.data.colors.background %}
+  <div class="card">
+    <div class="card-color-swatch" style="background-color: #{{item.color}};">
+    </div>
+    <div class="card-body">
+      <h3 class="card-title">{{ item.title }}</h3>
+      <p class="card-text">{{ item.variable }}: #{{item.color}};</p>
+    </div>
+  </div>
+  {% endfor %}
+</div>
+
+<h3>States</h3>
+<div class="card-deck">
+  {% for item in site.data.colors.states %}
+  <div class="card">
+    <div class="card-color-swatch" style="background-color: #{{item.color}};">
+    </div>
+    <div class="card-body">
+      <h3 class="card-title">{{ item.title }}</h3>
+      <p class="card-text">{{ item.variable }}: #{{item.color}};</p>
+    </div>
+  </div>
+  {% endfor %}
+</div>

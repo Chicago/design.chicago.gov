@@ -12,21 +12,13 @@ permalink: /
 ---
 
 <div class="usa-grid">
-  <div class="usa-width-one-whole">
+  <div class="usa-width-one-whole" id="welcome-panel">
     <h1 id="welcome-to-the-chicago-design-system">Welcome to the Chicago Design System</h1>
-  </div>
-</div>
-<div class="usa-grid">
-  <div class="usa-width-two-thirds">
-        <p>The Chicago Design System is the public identity for the City of Chicago & its people–Chicagoans.</p>
+    <p>The Chicago Design System is the public identity for the City of Chicago & its people–Chicagoans.</p>
 
-        <p>It is an inclusive, cost-effective update of our public identity for the 21st century, built on the history of Chicago and our civic heraldry.</p>
+    <p>It is an inclusive, cost-effective update of our public identity for the 21st century, built on the history of Chicago and our civic heraldry.</p>
 
-        <p>Here you can find <a href="/basics">basics (colors, type, icons, the star)</a>, our <a href="/public-mark">new public mark</a>, our <a href="/city-seal">updated seal</a>, and high quality versions of our <a href="municipal-symbols">municipal symbols (flag, device, pennant, badge)</a>.</p>
-  </div>
-</div>
-<div class="usa-grid">
-  <div class="usa-width-one-whole">
+    <p>Here you can find <a href="/basics">basics (colors, type, icons, the star)</a>, our <a href="/public-mark">new public mark</a>, our <a href="/city-seal">updated seal</a>, and high quality versions of our <a href="municipal-symbols">municipal symbols (flag, device, pennant, badge)</a>.</p>
     <div class="card-deck">
       {% for item in site.data.systems %}
         <a href="{{ site.baseurl }}{{ item.url }}">

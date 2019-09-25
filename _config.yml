@@ -47,4 +47,7 @@ collections:
   systems:
     output: true
     permalink: /:path/
+  colors:
+    output: true
+    permalink: /:path/
 
