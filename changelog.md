@@ -13,6 +13,12 @@ Here's all the new and wonderful stuff the [Design Office](https://design.chicag
 
 ### September
 
+#### 2019-09-27 Friday
+
+* We bid our lovely and talented intern Abigal Lammers and our September work adieu as we update the changelog for a last time in September and the first time this fall with a refresh of design.chicago.gov, a new card-driven architecture, and lots of color correcting, re-correcting, and over correcting. It has now been corrected.
+
+![This image shows a meme of the crazy butler character from the Shining, who tells a dramatic and terrifying story of correcting his children. The image says, "I corrected all the thinbgs." It contains a misspelling of "things." That's the joke.](/assets/img/memes/corrected.png)
+
 #### 2019-09-20 Friday
 
 * Launched design.chicago.gov, including messing around with DNS changes, Jekyll configuration settings, and all other kinds of gross code. Ew!
