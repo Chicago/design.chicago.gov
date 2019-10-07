@@ -11,6 +11,16 @@ Here's all the new and wonderful stuff the [Design Office](https://design.chicag
 
 ![David Bowie Changes album cover](/assets/img/Bowiechanges2.jpg)
 
+### October
+
+#### 2019-10-04 Friday
+
+Happy Octember, when it still kinda feels like summer, but winter's sharp teeth catch you at the start of end of the day. Anyway, last week was an "exciting" week of trimming budgets and managing expectations, two keys for government work.
+
+Refinement of color profiles as we begin shipping items from the [Chicago Design System](https://design.chicago.gov/), and writing up lots of how to and launch notes. Exciting times. Who knew distributing fonts via remote updates could be so exciting?
+
+Also, lots of planning for rollout. Lots. And lots. Of scribbles on napkins.
+
 ### September
 
 #### 2019-09-27 Friday
