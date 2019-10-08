@@ -1,7 +1,7 @@
 ---
 
 layout: page
-title: City Seal
+title: The Seal of the City of Chicago
 permalink: /city-seal
 
 ---
