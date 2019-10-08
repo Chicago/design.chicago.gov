@@ -15,7 +15,7 @@ primary:
   - text: Design System
     links:
       - text: All assets
-        href: /assets
+        href: /all
       - text: Basics
         href: /basics
       - text: City Seal
