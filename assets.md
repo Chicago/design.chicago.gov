@@ -8,3 +8,7 @@ title: Assets
 ---
 
 hello
+
+{% include flag.md %}
+{% include basics.md %}
+{% include typography.md %}
