@@ -11,4 +11,5 @@ hello
 
 {% include flag.md %}
 {% include basics.md %}
+{% include seals.md %}
 {% include typography.md %}

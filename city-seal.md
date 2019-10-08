@@ -6,5 +6,4 @@ permalink: /city-seal
 
 ---
 
-This is our new city seal.
-
+{% include seals.md %}
