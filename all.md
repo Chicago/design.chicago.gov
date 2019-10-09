@@ -7,9 +7,18 @@ title: All assets
 
 ---
 
-hello
-
+## The Flag of the City of Chicago
 {% include flag.md %}
+
+## Brand Basics for the City of Chicago
 {% include basics.md %}
-{% include seals.md %}
+
+## The Typography of the City of Chicago
 {% include typography.md %}
+
+## The Public Mark of the City of Chicago
+{% include public-mark.md %}
+
+## The Seal of the City of Chicago
+{% include seals.md %}
+
