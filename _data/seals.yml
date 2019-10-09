@@ -1,71 +1,76 @@
 - title: MAYOR’S OFFICE
   description: 
-  image: /assets/img/seals/.png 
+  image: /assets/img/seals/1880-mayor-office.png 
   img_alt: 
   year: 1880s
 - title: DEPARTMENT OF POLICE LETTERHEAD
   description: 
-  image: /assets/img/seals/1990-color.png 
+  image: /assets/img/seals/1886-black-police-seal.png 
   img_alt: 
-  year: 1886(?)
+  year: pre-1886
 - title: BUREAU OF STREET ENGINEERING LETTERHEAD
   description: 
-  image: /assets/img/seals/.png 
+  image: /assets/img/seals/1894-black-public-works.png 
   img_alt: 
   year: 1894
 - title: MAYOR GEORGE SWIFT LETTERHEAD
   description: City of Chicago Council Chambers letterhead
-  image: /assets/img/seals/.png 
+  image: /assets/img/seals/1895-black-swift.png 
   img_alt: 
   year: 1895
 - title: ALDERMAN FRANK BENNETT 7TH WARD LETTERHEAD
   description: 
-  image: /assets/img/seals/.png 
+  image: /assets/img/seals/1903-black-bennett.png 
   img_alt: 
   year: 1903
 - title: HUGO GROSSNER LETTERHEAD
   description: 
-  image: /assets/img/seals/.png 
+  image: /assets/img/seals/1904-black-grossner.png 
   img_alt: 
   year: 1904
 - title: MAYOR CARTER HARRISON
+  description: 
+  image: /assets/img/seals/1905-black-harrison.png 
+  img_alt: 
+  year: 1905
+- title: MAYOR CARTER HARRISON
   description: 1st term
-  image: /assets/img/seals/.png 
+  image: /assets/img/seals/1906-blue-harrison.png 
   img_alt: 
   year: 1906
 - title: FREDERICK REX DOCUMENT
   description: 
-  image: /assets/img/seals/.png 
+  image: /assets/img/seals/1918-black-rex.png 
   img_alt: 
   year: 1918
 - title: MAYOR CARTER HARRISON
   description: 2nd term
-  image: /assets/img/seals/.png 
+  image: /assets/img/seals/1927-black-harrison.png 
   img_alt: 
   year: 1927
 - title: MAYOR KELLY CHRISTMAS CARD
   description: 
-  image: /assets/img/seals/.png 
+  image: /assets/img/seals/1939-gold-kelly.png 
   img_alt: 
   year: 1936, 1939
 - title: Unknown
   description: If you have additional information, please contact the Design Team.
-  image: /assets/img/seals/.png 
+  image: /assets/img/seals/1940-blue.png 
   img_alt: 
   year: 1940-50(?)
 - title: Unknown
   description: If you have additional information, please contact the Design Team.
-  image: /assets/img/seals/.png 
+  image: /assets/img/seals/1950-black.png 
   img_alt: 
   year: 1950-60(?)
 - title: DECAL
   description: Black & white decal. 
-  image: /assets/img/seals/.png 
+  image: /assets/img/seals/1972-black-decal.png 
   img_alt: 
   year: 1972
 - title: DECAL
   description: Color decal, one of the last analog seal examples in the Harold Washington Library's City archives.
-  image: /assets/img/seals/.png 
+  image: /assets/img/seals/1975-color-analog.png 
   img_alt: 
   year: 1975
 - title: Current color
@@ -75,11 +80,11 @@
   year: 1990
 - title: Current monocolor
   description: 
-  image: /assets/img/seals/.png 
+  image: /assets/img/seals/1990-blue.png 
   img_alt: 
   year: 1990(?)
 - title: Proposed Seal
   description: The Seal of the City of Chicago
-  image: /assets/img/seals/.png 
+  image: /assets/img/seals/city-seal-black-2019.png 
   img_alt: 
   year: 2019
