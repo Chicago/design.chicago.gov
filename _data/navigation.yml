@@ -50,9 +50,11 @@ primary:
         href: /blog
       - text: Change log
         href: /changelog
+      - text: Colophon
+        href: /colophon
       - text: Our Work
         href: /our-work
-      - text: Sites using the CDS
+      - text: Sites
         href: /sites
 
 secondary:

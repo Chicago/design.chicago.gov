@@ -7,19 +7,26 @@ Our new public mark is the public voice of the City of Chicago, our residents, a
 
 ## background
 
-## vertical
+## Vertical
 
 ![](/assets/img/logo/LOGO-CHICAGO-vertical.png)
 
 ![](/assets/img/logo/LOGO-CHICAGO-vertical-symbols-only.png)
 
-## horizontal
+## Horizontal
 
 ![](/assets/img/logo/LOGO-CHICAGO-horizontal.png)
 
 ![](/assets/img/logo/LOGO-CHICAGO-horizontal-symbols-only.png)
 
-## lockups
+## Departmental
 
-## partnerships
 
+
+## Lockups
+
+![](/assets/img/logo/LOGO-spacing.png)
+
+## Partnerships
+
+![](/assets/img/logo/LOGO-partnership.png)
