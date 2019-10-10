@@ -24,7 +24,7 @@ permalink: /
     <div class="card-deck">
       {% for item in site.data.systems %}
         <a href="{{ site.baseurl }}{{ item.url }}">
-          <div class="card{%if item.color %} card-{{item.color}}{%endif%}">
+          <div class="card card-home{%if item.color %} card-{{item.color}}{%endif%}">
             <div class="card-body">
               <h3 class="card-title">{{ item.title }}</h3>
               <p class="card-text">{{ item.description }}</p>
