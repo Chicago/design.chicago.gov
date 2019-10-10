@@ -20,6 +20,10 @@ primary:
         href: /basics
       - text: City Seal
         href: /city-seal
+      - text: Flag
+        href: /flag
+      - text: Municipal Device
+        href: /municipal-device
       - text: Public Mark
         href: /public-mark
       - text: UI patterns
@@ -105,12 +109,18 @@ accessibility:
     href: '/accessibility/writing-guide/'
 
 footer:
-  - text: About
+  - text: About the system
     href: /about/
+  - text: About us
+    href: /about-us/
+  - text: Accessibility
+    href: /accessibility
   - text: Accessibility
     href: /accessibility-statement
   - text: Blog
     href: /blog
+  - text: Change log
+    href: /changelog
   - text: Colophon
     href: /colophon
   - text: Our Work
@@ -119,3 +129,26 @@ footer:
     href: /principles
   - text: Sites
     href: /sites
+  - text: All assets
+    href: /all
+  - text: Basics
+    href: /basics
+  - text: City Seal
+    href: /city-seal
+  - text: Flag
+    href: /flag
+  - text: Municipal Device
+    href: /municipal-device
+  - text: Public Mark
+    href: /public-mark
+  - text: UI patterns
+    href: https://www.figma.com/file/g9vsh5gXm99OgZR4OGiOIm/Chicago-Design-System-Component-Library-sticker-sheet?node-id=0%3A1
+    external: true
+  - text: Our Work
+    href: /our-work
+  - text: Design methods
+    href: https://chicago.github.io/design-methods
+    external: true
+  - text: Quick Start Guide
+    href: /start/
+
