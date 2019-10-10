@@ -1,52 +1,42 @@
-- title: City Seal
-  color: bahama-blue
-  description: The Seal of the City of Chicago
-  img_alt: hellooooo
-  url: /city-seal
-  year: 1837
-- title: Flag
-  color: lochmara-blue
-  description: The Flag of the City of Chicago
-  img_alt: hellooooo
-  url: /flag
-  year: 1917
-- title: Everything
+- title: Accessibility
+  color: cornflower-blue
+  description: Inclusive tech works better for everyone.
+  url: /accessibility
+- title: All symbols
   color: flag-blue
   description: All City of Chicago identity elements.
-  url: /assets
+  url: /all
 - title: Basics
   color: malibu-blue
   description: Our star, colors, type & icons.
   img_alt: 
   url: /basics
-  year: 2019
+- title: City Seal
+  color: bahama-blue
+  description: The Seal of the City of Chicago
+  img_alt: hellooooo
+  url: /city-seal
+- title: Design methods
+  color: lochmara-blue
+  description: How to do design with people.
+  url: https://chicago.github.io/design-methods
+- title: Flag
+  color: flag-blue
+  description: The Flag of the City of Chicago
+  img_alt: hellooooo
+  url: /flag
 - title: Public Mark
   color: cornflower-blue
   description: Our new logo for public use.
   url: /public-mark
-  year: 2019
 - title: User Interface
   color: bahama-blue
   description: A design system for digital apps. 
   url: https://www.figma.com/file/g9vsh5gXm99OgZR4OGiOIm/Chicago-Design-System-Component-Library-sticker-sheet?node-id=0%3A1
-  year: 2019
-- title: Accessibility
-  color: cornflower-blue
-  description: Inclusive technology works better for all.
-  url: /accessibility
-- title: Design methods
-  color: lochmara-blue
-  description: How to approach design work for cities.
-  url: https://chicago.github.io/design-methods
-- title: Quick Start Guide
+- title: Quick Start
   color: malibu-blue
   description: Get started with our code library.
   url: /start/
-- title: Principles
-  color: cornflower-blue
-  description: Our principles define our approach.
-  url: /principles
-  year: 
 - title: About us
   color: bahama-blue
   description: Learn about the Design Office.
@@ -55,26 +45,23 @@
   color: lochmara-blue
   description: Updates from the Design Office.
   url: /blog
-  year: 
 - title: Change log
-  color: flag-blue
+  color: cornflower-blue
   description: Notes on our latest updates.
   url: /changelog
-  year: 
 - title: Our Work
-  color: malibu-blue
+  color: lochmara-blue
   description: Case studies of our work.
   url: /our-work
-  year: 
 - title: Sites
-  color: lochmara-blue
+  color: malibu-blue
   description: Sites using the design system.
   url: /sites
 - title: About
-  color: cornflower-blue
+  color: bahama-blue
   description: About the Chicago Design System.
   url: /sites
 - title: chicago.gov
-  color: bahama-blue
-  description: The City of Chicago website
+  color: cornflower-blue
+  description: The City of Chicago website.
   url: https://www.chicago.gov

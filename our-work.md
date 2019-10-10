@@ -13,6 +13,7 @@ sidenav:
   - text: Partnerships
     href: '/our-work/#projects'
 sticky_sidenav: true
+
 ---
 
 The Design Office works to make city services more accessible and inclusive for Chicago residents. We bring user-centered design methods to teams working to improve the lives of Chicago residents both inside and outside of the city government, and we engage with residents to create better technology experiences for everyone.
