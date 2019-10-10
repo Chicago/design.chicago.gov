@@ -6,19 +6,36 @@ excerpt: The Chicago Design System is our new public identity to make Chicago mo
 
 ---
 
-**MEMORANDUM**
 
-DATE  September 23rd, 2019
 
-TO  Mayor's Office
+## MEMORANDUM 
 
-FROM  Jason Kunesh
-
-RE  Chicago Design System Rationale & Launch Next Steps
+<dl>
+  <dt>DATE</dt>
+  <dd>September 23rd, 2019</dd>
+  <dt>TO</dt>
+  <dd>Mayor's Office</dd>
+  <dt>FROM</dt>
+  <dd>Jason Kunesh</dd>
+  <dt>RE</dt>
+  <dd>Chicago Design System Rationale & Launch Next Steps</dd>
+</dl>
 
 The Chicago Design System is our new public identity, consisting of a new mark, typeface, color scheme, re-rendering of the city seal, and a design system to rollout digital and analog brand expressions (See the accompanying presentation).
 
 We should do this to make Chicago more inclusive of our communities, make the Mayor's voice more effective, and save over $5 million annually.
+
+
+SAVE $5-10mm+ ANNUALLY
+In marketing and technology costs.
+
+LOOK GOOD
+Our new brand is accessible, inclusive, and clear.
+
+BE HEARD
+One brand amplifies the Mayor’s message & communications team.
+
+
 
 SAVE MONEY
 
