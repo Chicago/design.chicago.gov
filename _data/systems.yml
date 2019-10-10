@@ -25,6 +25,10 @@
   color: cornflower-blue
   description: Our new logo for public use.
   url: /public-mark
+- title: Typography
+  color: cornflower-blue
+  description: Big Shoulders, our public font.
+  url: /typography/
 - title: User Interface
   color: cornflower-blue
   description: A design system for digital apps. 
