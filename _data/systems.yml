@@ -25,6 +25,10 @@
   description: The Flag of the City of Chicago
   img_alt: hellooooo
   url: /flag
+- title: Municipal Device
+  color: cornflower-blue
+  description: The original public mark for remix.
+  url: /municipal-device/
 - title: Public Mark
   color: cornflower-blue
   description: Our new logo for public use.
@@ -37,10 +41,6 @@
   color: malibu-blue
   description: Get started with our code library.
   url: /start/
-- title: Municipal Device
-  color: cornflower-blue
-  description: The original public mark for remix.
-  url: /municipal-device/
 - title: About us
   color: lochmara-blue
   description: Learn about the Design Office.

@@ -13,8 +13,8 @@ title: All assets
 ## Brand Basics for the City of Chicago
 {% include basics.md %}
 
-## The Typography of the City of Chicago
-{% include typography.md %}
+## The Municipal Device of the City of Chicago
+{% include municipal-device.md %}
 
 ## The Public Mark of the City of Chicago
 {% include public-mark.md %}
@@ -22,3 +22,5 @@ title: All assets
 ## The Seal of the City of Chicago
 {% include seals.md %}
 
+## The Typography of the City of Chicago
+{% include typography.md %}
