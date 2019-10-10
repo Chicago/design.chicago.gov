@@ -6,5 +6,5 @@ permalink: /typography/
 
 ---
 
-{% include typography.md %}
+{% include typography.html %}
 

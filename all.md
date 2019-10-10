@@ -24,7 +24,5 @@ title: All assets
 
 ## The User Interface of the City of Chicago
 
-
-
 ## The Typography of the City of Chicago
-{% include typography.md %}
+{% include typography.html %}
