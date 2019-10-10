@@ -18,24 +18,27 @@ permalink: /
 
     <p>The Chicago Design System is the public identity of the City of Chicago.</p>
 
-    <p>It is an inclusive, equitable, cost-effective system for City communications and expression of the public's love for Chicago.</p>
+    <p>It is an inclusive, equitable, cost saving system for City communication and for public use to show civic pride.</p>
 
-    <p>Our new public identity's strength is its ability to reimagine Chicago's history and heraldry for the 21st century.</p>
 
     <div class="card-deck">
       {% for item in site.data.systems %}
         <a href="{{ site.baseurl }}{{ item.url }}">
-          <div class="card{%if item.color %} card-{{item.color}}{%endif%}">
-          {% if item.small_image %}
-            <img class="card-img-top" src="{{ site.baseurl }}{{ item.small_image }}" alt="{{ item.image_alt }} ">
-          {% endif %}
-          <div class="card-body">
-            <h3 class="card-title">{{ item.title }}</h3>
-            <p class="card-text">{{ item.description }}</p>
+          <div class="card card-home{%if item.color %} card-{{item.color}}{%endif%}">
+            <div class="card-body">
+              <h3 class="card-title">{{ item.title }}</h3>
+              <p class="card-text">{{ item.description }}</p>
+            </div>
           </div>
-        </div>
-      </a>
+        </a>
       {% endfor %}
     </div>
+    <br>
+    <br>
+    <h2 id="quote">Sometimes the creating we do is creating a platform that allows other people to pitch in.</h2>
+    <p id="quoted">–Theaster Gates</p>
+    <br>
+    <br>
+    <br>
   </div>
 </div>

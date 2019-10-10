@@ -7,11 +7,7 @@ published: true
 
 ---
 
-Muni device
+{% include municipal-device.md %}
 
-2x
-
-![]()
-![]()
 
 

@@ -1,14 +1,10 @@
-- title: Accessibility
-  color: flag-blue
-  description: Inclusive tech works better for everyone.
-  url: /accessibility
 - title: All symbols
   color: cornflower-blue
-  description: All City of Chicago identity elements.
+  description: All City of Chicago identity elements
   url: /all
 - title: Basics
   color: cornflower-blue
-  description: Our star, colors, type & icons.
+  description: Our star, colors, type & icons
   img_alt: 
   url: /basics
 - title: City Seal
@@ -16,56 +12,64 @@
   description: The Seal of the City of Chicago
   img_alt: hellooooo
   url: /city-seal
-- title: Design methods
-  color: flag-blue
-  description: How to design with the public.
-  url: https://chicago.github.io/design-methods
 - title: Flag
   color: cornflower-blue
   description: The Flag of the City of Chicago
   img_alt: hellooooo
   url: /flag
-- title: Public Mark
-  color: cornflower-blue
-  description: Our new logo for public use.
-  url: /public-mark
-- title: User Interface
-  color: flag-blue
-  description: A design system for digital apps. 
-  url: https://www.figma.com/file/g9vsh5gXm99OgZR4OGiOIm/Chicago-Design-System-Component-Library-sticker-sheet?node-id=0%3A1
-- title: Quick Start
-  color: malibu-blue
-  description: Get started with our code library.
-  url: /start/
 - title: Municipal Device
   color: cornflower-blue
-  description: The original public mark for remix.
+  description: The original public mark for remix
   url: /municipal-device/
-- title: About us
+- title: Public Mark
+  color: cornflower-blue
+  description: Our new logo for public use
+  url: /public-mark
+- title: Typography
+  color: cornflower-blue
+  description: Big Shoulders, our public font
+  url: /typography/
+- title: User Interface
+  color: cornflower-blue
+  description: A design system for digital apps
+  url: https://www.figma.com/file/g9vsh5gXm99OgZR4OGiOIm/Chicago-Design-System-Component-Library-sticker-sheet?node-id=0%3A1
+- title: About
+  color: flag-blue
+  description: About the Chicago Design System
+  url: /about
+- title: Accessibility
+  color: flag-blue
+  description: Inclusive tech works better for everyone
+  url: /accessibility
+- title: Design methods
+  color: flag-blue
+  description: How to design with the public
+  url: https://chicago.github.io/design-methods
+- title: About the Design Office
   color: lochmara-blue
-  description: Learn about the Design Office.
+  description: Learn about the Design Office
   url: /about-us/
 - title: Blog
   color: lochmara-blue
-  description: Updates from the Design Office.
+  description: Updates from the Design Office
   url: /blog
 - title: Change log
   color: lochmara-blue
-  description: Notes on our latest updates.
+  description: Notes on our latest updates
   url: /changelog
 - title: Our Work
   color: lochmara-blue
-  description: Case studies of our work.
+  description: Case studies of our work
   url: /our-work
+- title: Quick Start
+  color: malibu-blue
+  description: Get started with our code library
+  url: /start/
 - title: Sites
   color: malibu-blue
-  description: Sites using the design system.
+  description: Sites using the design system
   url: /sites
-- title: About
-  color: malibu-blue
-  description: About the Chicago Design System.
-  url: /about
 - title: chicago.gov
-  color: flag-blue
-  description: The City of Chicago website.
+  color: malibu-blue
+  description: The City of Chicago website
   url: https://www.chicago.gov
