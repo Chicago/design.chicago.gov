@@ -11,7 +11,25 @@ Here's all the new and wonderful stuff the [Design Office](https://design.chicag
 
 ![David Bowie Changes album cover](/assets/img/Bowiechanges2.jpg)
 
+### October
+
+#### 2019-10-04 Friday
+
+Happy Octember, when it still kinda feels like summer, but winter's sharp teeth catch you at the start of end of the day. Anyway, last week was an "exciting" week of trimming budgets and managing expectations, two keys for government work.
+
+Refinement of color profiles as we begin shipping items from the [Chicago Design System](https://design.chicago.gov/), and writing up lots of how to and launch notes. Exciting times. Who knew distributing fonts via remote updates could be so exciting?
+
+Also, lots of planning for rollout. Lots. And lots. Of scribbles on napkins.
+
 ### September
+
+#### 2019-09-27 Friday
+
+* We bid our lovely and talented intern Abigal Lammers and our September work adieu as we update the changelog for a last time in September and the first time this fall.
+
+  What did we do? Corrected, refresh, and refined content and display of design.chicago.gov, including a new card-driven home page and card style, and lots of color correcting, re-correcting, and over correcting. It has now been corrected.
+
+  ![This image shows a meme of the crazy butler character from the Shining, who tells a dramatic and terrifying story of correcting his children. The image says, "I corrected all the thinbgs." It contains a misspelling of "things." That's the joke.](/assets/img/memes/corrected.png)
 
 #### 2019-09-20 Friday
 
