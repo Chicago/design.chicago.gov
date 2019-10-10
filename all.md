@@ -7,7 +7,6 @@ title: All assets
 
 ---
 
-
 ## Brand Basics for the City of Chicago
 {% include basics.md %}
 
