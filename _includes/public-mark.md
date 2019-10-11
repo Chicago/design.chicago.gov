@@ -7,9 +7,9 @@ Our new public mark is the public voice of the City of Chicago, our residents, a
 
 ## Vertical
 
-![](/assets/img/logo/LOGO-CHICAGO-vertical.png)
 
-![](/assets/img/logo/LOGO-CHICAGO-vertical-symbols-only.png)
+<p><img src="/assets/img/logo/LOGO-CHICAGO-vertical.png" alt="" width="33%"/></p>
+<p><img src="/assets/img/logo/LOGO-CHICAGO-vertical-symbols-only.png" alt=""  width="33%"/></p>
 
 ## Horizontal
 
@@ -21,8 +21,8 @@ Our new public mark is the public voice of the City of Chicago, our residents, a
 
 
 
-![](/assets/img/logo/LOGO-CHICAGO-remix-cultural.png)
-![](/assets/img/logo/LOGO-CHICAGO-remix-institutions.png)
+![](/assets/img/logo/LOGO-remix-cultural.png)
+![](/assets/img/logo/LOGO-remix-institutions.png)
 
 ## Lockups
 
