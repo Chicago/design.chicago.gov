@@ -17,15 +17,19 @@ Our new public mark is the public voice of the City of Chicago, our residents, a
 
 ## Departmental
 
-![](/assets/img/logo/LOGO-remix-cultural.png)
-![](/assets/img/logo/LOGO-remix-institutions.png)
 
-
-## Partnerships
+## Inter-agency
 
 ![](/assets/img/logo/LOGO-partnership-examples.png)
 
-![](/assets/img/logo/LOGO-partnership.png)
+## Partnerships
+
+![](/assets/img/logo/LOGO-remix-cultural.png)
+
+
+
+![](/assets/img/logo/LOGO-remix-institutions.png)
+
 
 # For You
 
@@ -46,3 +50,6 @@ Congratulations, civic typographer!
 For ideal spacing in your project, use the follow guidelines for implementation:
 
 ![](/assets/img/logo/LOGO-spacing.png)
+
+![](/assets/img/logo/LOGO-partnership.png)
+
