@@ -36,7 +36,7 @@
 - title: About
   color: flag-blue
   description: About the Chicago Design System
-  url: /about
+  url: /colophon
 - title: Accessibility
   color: flag-blue
   description: Inclusive tech works better for everyone
@@ -61,10 +61,10 @@
   color: lochmara-blue
   description: Case studies of our work
   url: /our-work
-- title: Quick Start
+- title: CDS Web Standards
   color: malibu-blue
   description: Get started with our code library
-  url: /start/
+  url: /about
 - title: Sites
   color: malibu-blue
   description: Sites using the design system
