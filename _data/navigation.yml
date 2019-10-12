@@ -115,20 +115,20 @@ accessibility:
     href: '/accessibility/writing-guide/'
 
 footer:
-  - text: About the system
-    href: /about/
+  - text: About the CDS
+    href: /colophon
   - text: About us
     href: /about-us/
   - text: Accessibility
     href: /accessibility
-  - text: Accessibility
+  - text: Accessibility statement
     href: /accessibility-statement
   - text: Blog
     href: /blog
+  - text: CDS Web Standards
+    href: /about/
   - text: Change log
     href: /changelog
-  - text: Colophon
-    href: /colophon
   - text: Our Work
     href: /our-work
   - text: Principles
