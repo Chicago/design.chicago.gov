@@ -20,7 +20,7 @@
 - title: Municipal Device
   color: cornflower-blue
   description: The original public mark for remix
-  url: /municipal-device/
+  url: /municipal-device
 - title: Public Mark
   color: cornflower-blue
   description: Our new logo for public use
@@ -28,7 +28,7 @@
 - title: Typography
   color: cornflower-blue
   description: Big Shoulders, our public font
-  url: /typography/
+  url: /typography
 - title: User Interface
   color: cornflower-blue
   description: A design system for digital apps
