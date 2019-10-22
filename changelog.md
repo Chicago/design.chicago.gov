@@ -13,6 +13,18 @@ Here's all the new and wonderful stuff the [Design Office](https://design.chicag
 
 ### October
 
+#### 2019-10-18 Friday
+
+Read like 700 pages of RFP responses, nearly died.
+Made a movie about how much we like Frontify.
+Used Frontify to distribute a bunch of brand assets.
+Took a vacation.
+ 
+#### 2019-10-11 Friday
+
+Production, production, production, production. production.
+This website is chuggin' along!
+
 #### 2019-10-04 Friday
 
 Happy Octember, when it still kinda feels like summer, but winter's sharp teeth catch you at the start of end of the day. Anyway, last week was an "exciting" week of trimming budgets and managing expectations, two keys for government work.
