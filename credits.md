@@ -20,7 +20,8 @@ Work began early in 2018 as a unique collaboration between the Mayor's Office, t
 * Patric King at House of Pretty
 * Gabe, Hannah, Hillary, Phil, Steve & co at Ogilvy
 * Luke & Jake at Threadless for helping out.
-* I N T E R N S!!! Huge thanks to the original intern, Tait Chamberlain, his trusty second Lukas Hoffman, and third intern Derek Hunter Ramos of 2018 fame. In 2019, Gregory Kim and Abigail Lammers helped us rock out the rest of our design system work.
+* I N T E R N S!!! Huge thanks to the original intern, Tait Chamberlain, his trusty second Lukas Hoffman, and third intern Derek Hunter Ramos of 2018 fame. In 2019, Gregory Kim and Abigail Lammers helped us rock out the rest of v1 of our design system work.
+* [@kilinkis](https://twitter.com/kilinkis) for suggestions for the flag page.
 
 THANK YOU ALL!
 
