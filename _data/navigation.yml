@@ -52,6 +52,8 @@ primary:
         href: /changelog
       - text: Colophon
         href: /colophon
+      - text: Credits
+        href: /credits/
       - text: Our Work
         href: /our-work
       - text: Sites
@@ -60,6 +62,8 @@ primary:
 secondary:
   - text: About
     href: /about/
+  - text: Credits
+    href: /credits/
   - text: chicago.gov
     href: https://www.chicago.gov
     external: true
