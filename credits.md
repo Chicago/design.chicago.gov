@@ -20,7 +20,10 @@ Work began early in 2018 as a unique collaboration between the Mayor's Office, t
 * Patric King at House of Pretty
 * Gabe, Hannah, Hillary, Phil, Steve & co at Ogilvy
 * Luke & Jake at Threadless for helping out.
-* I N T E R N S!!! Huge thanks to the original intern, Tait Chamberlain, his trusty second Lukas Hoffman, and third intern Derek Hunter Ramos of 2018 fame. In 2019,  Abigail Lammers, the original Tait Chamberlain 
+* I N T E R N S!!! Huge thanks to the original intern, Tait Chamberlain, his trusty second Lukas Hoffman, and third intern Derek Hunter Ramos of 2018 fame. In 2019, Gregory Kim and Abigail Lammers helped us rock out the rest of our design system work.
+
+THANK YOU ALL!
+
 _A special thank you to Mayor Lori E. Lightfoot for seeing value in and sponsoring this project despite its humble origins._
 
 This work would not have been possible without Danielle DuMerer, Jamey Lundblad, Daniel Lurie, Stacey Mansker-Young, Carleton Nolan, Han Nguyen, Tim Samuelson, and many, many more at the City of Chicago. Thanks to Mayor Rahm Emanuel for originating this project and requesting someone like me be hired to work on 311 and this effort.
