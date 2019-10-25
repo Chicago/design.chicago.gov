@@ -10,28 +10,28 @@ The Chicago Design System (CDS) is the design system for the people and governme
 
 Work began early in 2018 as a unique collaboration between the Mayor's Office, the Department of Innovation & Technology, and the Department of Fleet and Facility Management. Team leads Grace Cheung, Danielle DuMerer, Alberto Ferrari, and Jason Kunesh worked in pro bono partnership with [Ogilvy](https://ogilvy.com/)'s Chicago office and local type designer Patric King of [House of Pretty](https://xo.houseofpretty.com). Throughout the process we have relied upon partners inside and outside government to make this work.
 
-## Thank you partners
+## Thank you!
 
 * Drs. Sheena Erete & Denise Nacu of DePaul University's College of Computing and Digital Media
 * Tanner Woodford at the Design Museum of Chicago
 * Stephanie, Morgan & Tim at Figma
 * Lauren & Ritchie at Frontify
-* dude at Google Fonts
-* Patric at House of Pretty
+* Google Fonts team
+* Patric King at House of Pretty
 * Gabe, Hannah, Hillary, Phil, Steve & co at Ogilvy
 * Luke & Jake at Threadless for helping out.
+* I N T E R N S!!! Huge thanks to the original intern, Tait Chamberlain, his trusty second Lukas Hoffman, and third intern Derek Hunter Ramos of 2018 fame. In 2019,  Abigail Lammers, the original Tait Chamberlain 
+_A special thank you to Mayor Lori E. Lightfoot for seeing value in and sponsoring this project despite its humble origins._
 
-A special thank you to Mayor Lori E. Lightfoot for seeing value in and sponsoring this project despite its humble origins.
+This work would not have been possible without Danielle DuMerer, Jamey Lundblad, Daniel Lurie, Stacey Mansker-Young, Carleton Nolan, Han Nguyen, Tim Samuelson, and many, many more at the City of Chicago. Thanks to Mayor Rahm Emanuel for originating this project and requesting someone like me be hired to work on 311 and this effort.
 
+In any project spanning two years and administrations just to get to version one, a village doesn't cut it. It takes a city.
 
-This work would not have been possible without former Mayor Rahm Emanuel, Grace Cheung, Emily Mayor Lori E. Lightfoot, Jamey Lundblad, Daniel Lurie, Han Nguyen,
-
-
-In any project spanning two years and administrations just to get to implementation, a village doesn't cut it. It takes a city.
-
-
+Thank you, Chicago, for all you are and all you can be. 
 
 
-Many of the images appearing on City of Chicago websites are a product of the Department of Fleet and Facility Management's <a href="https://chicago.gov/content/city/en/depts/dgs/provdrs/asset_management.html" target="_self" title="Bureau of Asset Management">Bureau of Asset Management</a>.
+## Dedication
 
-Prints are available to buy online at the [Chicago Image Gallery](https://chicagoimagegallery.cityofchicago.org/).
+I'd like to dedicate this work to Dan & Gail Kunesh,  my parents, and Lora Kovac, Sophia & Vivian Kunesh, my wife & kids. My parents taught me through their actions that faith, hope, and love move the world. I've done my best to keep that wisdom alive for the next generation.
+
+
