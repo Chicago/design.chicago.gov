@@ -1,6 +1,6 @@
 ---
 
-layout: page
+layout: default
 title: Public Mark
 permalink: /public-mark
 
