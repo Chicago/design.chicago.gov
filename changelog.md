@@ -13,6 +13,12 @@ Here's all the new and wonderful stuff the [Design Office](https://design.chicag
 
 ### October
 
+#### 2019-10-25 Friday
+
+Lots of conversations about accessibility and budgeting, most of them depressing but informative. Given our resource constraints, we will need to really focus and work with our teams, departments, and vendors to ensure digital accessibility consistently.
+
+Also, we're going to trash the work we've done in establishing USWDS 1.0 as our baseline, and move to a Bootstrap 4 theme. More on that once I blog more for realz.
+
 #### 2019-10-18 Friday
 
 Read like 700 pages of RFP responses, nearly died.
