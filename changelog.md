@@ -11,6 +11,15 @@ Here's all the new and wonderful stuff the [Design Office](https://design.chicag
 
 ![David Bowie Changes album cover](/assets/img/Bowiechanges2.jpg)
 
+### November
+
+#### 2019-11-01 Friday
+
+WHAT THE WHAT WHAT?
+ALL SAINTS DAY, THAT'S WHAT.
+
+Oh, yeah, [GitHub Bootstrap Chicago Design System Theme](https://github.com/Chicago/design-cds-bootstrap/projects/1), baby! Coming to a theater near you!
+
 ### October
 
 #### 2019-10-25 Friday
