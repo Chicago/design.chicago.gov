@@ -13,12 +13,6 @@ sidenav:
     href: '/start/#developers'
   - text: Designers
     href: '/start/#designers'
-#  - text: Github
-#    href: '/start/#github'
-#  - text: Fractal
-#    href: '/start/#fractal'
-#  - text: How to Contribute
-#    href: '/start/#how-to-contribute-to-the-chicago-design-system'
 
 ---
 

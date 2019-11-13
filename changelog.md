@@ -13,6 +13,12 @@ Here's all the new and wonderful stuff the [Design Office](https://design.chicag
 
 ### November
 
+#### 2019-11-08 Friday
+
+* Presented our system to the Mayor for approval. Got it.
+* Presented our system to the Mayor's Office for implementation planning.
+* Coding coding coding on that [Bootstrap 4 Chicago Design System theme](https://chicago.github.io/design-cds-bootstrap/). 
+
 #### 2019-11-01 Friday
 
 WHAT THE WHAT WHAT?
