@@ -2,7 +2,7 @@
 layout: post
 title: Choosing the CDS Color Set
 author: Abby Lammers
-excerpt: An explanation for the CDS colors. You can view the final color set in [Figma](https://www.figma.com/file/4ca6grgu0oxMC0r4qAXSrg/CDS-Colors?node-id=0%3A1).
+excerpt: An explanation of the origin of the Chicago Design System color palette.
 ---
 
 ![CDS primary colors](/assets/img/CDS-colors-primary.png)
