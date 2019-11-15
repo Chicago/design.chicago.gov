@@ -43,7 +43,7 @@ dd {
 
 The Chicago Design System is our new public identity, consisting of a new mark, typeface, color scheme, re-rendering of the city seal, and a design system to rollout digital and analog brand expressions (See the accompanying presentation).
 
-We should do this to make Chicago more inclusive of our communities, make the Mayor's voice more effective, and save over $5 million annually. Why do this?
+We should do this to make Chicago more inclusive of our communities, make the Mayor's voice more effective, and save over $5 million annually.
 
 
 ### SAVE $5-10mm+ ANNUALLY
