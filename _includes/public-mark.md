@@ -1,4 +1,9 @@
+<style>
+  img.logo-display {height: 12em;}
+</style>
 <div class="usa-grid">
+  <br>
+  <br>
   <div class="usa-width-one-whole" id="welcome-panel">
     <h1 id="public-mark">Public Mark</h1>
     <p>Our new public mark is the public voice of the City of Chicago, our residents, and our communities.</p>
@@ -8,46 +13,43 @@
 </div>
 <div class="usa-grid">
 <br>
-  <div class="usa-width-one-half">
-    <h2 id="horizontal">Horizontal</h2>
-    <p><img src="/assets/img/logo/LOGO-CHICAGO-horizontal.png" alt="" /></p>
-  </div>
-  <div class="usa-width-one-half">
-    <h2 id="vertical">Vertical</h2>
-    <p><img src="/assets/img/logo/LOGO-CHICAGO-vertical.png" alt="" width="33%" /></p>
+  <div class="usa-width-one-whole" style="text-align:center;">
+<br>
+    <p><img src="/assets/img/logo/LOGO-CHICAGO-horizontal.png" alt="" style="padding: 3em 0;"/></p>
+<br>
+    <p><img src="/assets/img/logo/LOGO-CHICAGO-vertical.png" alt="" width="25%" style="padding: 2em 0;"/></p>
+<br>
+<br>
   </div>
 </div>
 <div class="usa-grid">
 <div class="usa-width-one-whole">
-
-  <h2 id="departmental">Departmental</h2>
-</div>
-
-<div class="usa-width-one-half">
-    <p><img src="/assets/img/logo/LOGO-CHICAGO-horizontal 311.png" alt="" /></p>
-    <p><img src="/assets/img/logo/LOGO-CHICAGO-horizontal AIMS.png" alt="" /></p>
-    <p><img src="/assets/img/logo/LOGO-CHICAGO-horizontal CDOT.png" alt="" /></p>
+  <h2 id="departmental">Department marks</h2>
+  <br>
+  <br>
+    <p><img src="/assets/img/logo/LOGO-CHICAGO-horizontal 311.png" class="logo-display" alt="" /></p>
+    <p><img src="/assets/img/logo/LOGO-CHICAGO-horizontal AIMS.png" class="logo-display" alt="" /></p>
+    <p><img src="/assets/img/logo/LOGO-CHICAGO-horizontal CDOT.png" class="logo-display" alt="" /></p>
+    <p><img src="/assets/img/logo/LOGO-CHICAGO-horizontal DCASE.png" class="logo-display" alt="" /></p>
+    <p><img src="/assets/img/logo/LOGO-CHICAGO-horizontal FINANCE.png" class="logo-display" alt="" /></p>
+  <br>
+  <br>
   </div>
-
-  <div class="usa-width-one-half">
-    <p><img src="/assets/img/logo/LOGO-CHICAGO-horizontal DCASE.png" alt="" /></p>
-    <p><img src="/assets/img/logo/LOGO-CHICAGO-horizontal FINANCE.png" alt="" /></p>
-
-  </div>
-
 </div>
 <div class="usa-grid">
 <div class="usa-width-one-whole">
-
   <h2 id="inter-agency">Inter-agency</h2>
-
+  <br>
   <p><img src="/assets/img/logo/LOGO-partnership-examples.png" alt="" /></p>
-
-  <h2 id="community-partnerships">Community partnerships</h2>
-
-  <p><img src="/assets/img/logo/LOGO-remix-cultural.png" alt="" /></p>
-
+  <h2 id="community-partnerships">Community partnership & public expressions</h2>
+<br>
   <p><img src="/assets/img/logo/LOGO-remix-institutions.png" alt="" /></p>
+<br>
+<br>
+  <p><img src="/assets/img/logo/LOGO-remix-cultural.png" alt="" /></p>
+<br>
+<br>
+<p><i>Note: These marks are for example purposes only, there's no partnership or community favoritism implied or intended here.</i></p>
 
   <h1 id="for-you">For You</h1>
 
@@ -57,17 +59,17 @@
 
   <p>Congratulations, civic typographer!</p>
 
-  <p><img src="/assets/img/logo/LOGO-CHICAGO-horizontal-symbols-only.png" alt="" /></p>
+  <p><img src="/assets/img/logo/LOGO-CHICAGO-horizontal-symbols-only.png" alt="" width="53%" style="padding: 3em 0 1em 0;"/></p>
 
-  <p><img src="/assets/img/logo/LOGO-CHICAGO-vertical-symbols-only.png" alt="" width="33%" /></p>
-
-  <h2 id="lockups">Lockups</h2>
-
-  <p>For ideal spacing in your project, use the follow guidelines for implementation:</p>
-
-  <p><img src="/assets/img/logo/LOGO-spacing.png" alt="" /></p>
-
-  <p><img src="/assets/img/logo/LOGO-partnership.png" alt="" /></p>
+  <p><img src="/assets/img/logo/LOGO-CHICAGO-vertical-symbols-only.png" alt="" width="25%" style="padding: 3em 0 1em 0;"/></p>
+<br>
+<br>
 </div>
-
+<div class="usa-grid">
+  <div class="usa-width-one-whole">
+    <h2 id="lockups">Lockups</h2>
+    <p>For ideal spacing in your project, use the follow guidelines for implementation:</p>
+    <p><img src="/assets/img/logo/LOGO-spacing.png" alt="" /></p>
+    <p><img src="/assets/img/logo/LOGO-partnership.png" alt="" /></p>
+  </div>
 </div>

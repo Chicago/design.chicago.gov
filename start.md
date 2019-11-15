@@ -16,12 +16,11 @@ sidenav:
 
 ---
 
-## Getting Started with the CDS
+## Getting Started with the Chicago Design System
 
 The CDS is three things, as we mentioned on the home page. It's a visual identity system, a web user interface component library with code, and a design methods guide to help use design thinking to unlock creativity in your work. Let's look at each one in turn.
 
 ## Philosophy
-
 
 
 ### Visual assets
@@ -31,7 +30,6 @@ Chicago's
 ### Code
 
 The Chicago Design System is built upon the [United States Web Design System](https://v2.designsystem.digital.gov/) code and methods as a baseline.
-
 
 
 ### Methods & practices

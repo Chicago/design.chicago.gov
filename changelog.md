@@ -13,6 +13,12 @@ Here's all the new and wonderful stuff the [Design Office](https://design.chicag
 
 ### November
 
+#### 2019-11-15 Friday
+
+* Hammered out some SASS rendering issues that were driving me crazy. Computers are fun until they do what you unintentionally tasked them to do.
+* Learning about Salesforce Marketing Cloud.
+* Went to Google's Chicago Office to chat about tech. Thanks for the yogurt & fancy water!
+
 #### 2019-11-08 Friday
 
 * Presented our system to the Mayor for approval. Got it.

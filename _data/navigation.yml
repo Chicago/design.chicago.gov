@@ -60,8 +60,8 @@ primary:
         href: /sites
 
 secondary:
-  - text: About
-    href: /about/
+  - text: Get Started
+    href: /start/
   - text: Credits
     href: /credits/
   - text: chicago.gov
