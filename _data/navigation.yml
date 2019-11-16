@@ -62,6 +62,8 @@ primary:
 secondary:
   - text: Get Started
     href: /start/
+  - text: Blog
+    href: /blog
   - text: Credits
     href: /credits/
   - text: chicago.gov
