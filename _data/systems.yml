@@ -57,14 +57,14 @@
   color: lochmara-blue
   description: Notes on our latest updates
   url: /changelog
-- title: Our Work
-  color: lochmara-blue
-  description: Case studies of our work
+# - title: Our Work
+#   color: lochmara-blue
+#   description: Case studies of our work
   url: /our-work
-- title: CDS Web Standards
+- title: CDS Web
   color: malibu-blue
-  description: Get started with our code library
-  url: /about
+  description: Our Bootstrap 4 Jekyll theme
+  url: https://github.com/Chicago/design-cds-bootstrap
 - title: Sites
   color: malibu-blue
   description: Sites using the design system
