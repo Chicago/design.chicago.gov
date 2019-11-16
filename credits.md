@@ -27,9 +27,9 @@ THANK YOU ALL!
 
 _A special thank you to Mayor Lori E. Lightfoot for seeing value in and sponsoring this project despite its humble origins._
 
-This work would not have been possible without Danielle DuMerer, Jamey Lundblad, Daniel Lurie, Stacey Mansker-Young, Carleton Nolan, Han Nguyen, Tim Samuelson, and many, many more at the City of Chicago. Thanks to Mayor Rahm Emanuel for originating this project and requesting someone like me be hired to work on 311 and this effort.
+This work would not have been possible without Cara Bader, Derrick Brownlee, Grace Chung, Maurice Classen, Michael Crowley, Danielle DuMerer, Douglas Hurdelbrink, Emily Krisciunas, Jamey Lundblad, Daniel Lurie, Stacey Mansker-Young, Carleton Nolan, Han Nguyen, Tim Samuelson, and many, many more at the City of Chicago. Thanks to Mayor Rahm Emanuel for originating this project and requesting someone like me be hired to work on 311 and this effort.
 
-In any project spanning two years and administrations just to get to version one, a village doesn't cut it. It takes a city.
+In any project spanning two years and administrations to get to version 0.9, a village doesn't cut it. It takes a city.
 
 Thank you, Chicago, for all you are and all you can be. 
 

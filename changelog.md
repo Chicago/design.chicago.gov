@@ -15,6 +15,7 @@ Here's all the new and wonderful stuff the [Design Office](https://design.chicag
 
 #### 2019-11-15 Friday
 
+* v0.9 hit the streets. WHAT?!?
 * Hammered out some SASS rendering issues that were driving me crazy. Computers are fun until they do what you unintentionally tasked them to do.
 * Learning about Salesforce Marketing Cloud.
 * Went to Google's Chicago Office to chat about tech. Thanks for the yogurt & fancy water!
