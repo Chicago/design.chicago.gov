@@ -9,11 +9,20 @@ Big Shoulders is the Municipal Typeface for the City of Chicago. It is for use i
 
 Big Shoulders Display is for large format, environmental prints: signage, billboards, banners, etc. Big Shoulders Text is for all other display purposes.
 
+[Roboto](https://fonts.google.com/specimen/Roboto) and [Lora](https://fonts.google.com/specimen/Lora) are the City's sans serif and serif body typefaces.
+
+The easiest way to get started is to open a [Google doc](https://docs.google.com/document/u/0/). Once there, you can turn on all the typefaces and make yourself a document.
+
+The next level up is to install the fonts on your own computer. The latest version will always be available on [Google Fonts](https://fonts.google.com/) or you can [download a zip of them all here](/assets/downloads/FONTS-CHICAGO-20191115.zip).
+
 [Download Big Shoulders from Google Fonts](https://fonts.google.com/?query=big+shoulders)
-
-
 
 To put a Chicago Star in your typesetting, turn on discretionary ligatures in your app or CSS, and then type CHISTAR (in all caps). It’ll automatically replace with the star, sized correctly to fit the text.
 
+![](/assets/img/CHISTAR-1.png)
+_Ligatures off, CHISTAR._
 
-[Roboto](https://fonts.google.com/specimen/Roboto) and [Lora](https://fonts.google.com/specimen/Lora) are the City's sans serif and serif body typefaces.  
+![](/assets/img/CHISTAR-2.png)
+_Ligatures on, our Chicago Star!_
+
+[Here is an example file in Figma](https://www.figma.com/c/file/777299502625879332).
