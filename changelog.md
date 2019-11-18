@@ -13,6 +13,10 @@ Here's all the new and wonderful stuff the [Design Office](https://design.chicag
 
 ### November
 
+#### 2019-11-22 Friday
+
+* Whoops, fixed [chicagodesignsystem.org](https://chicagodesignsystem.org/) so it resolves to [design.chicago.gov](https://design.chicago.gov/) securely.
+
 #### 2019-11-15 Friday
 
 * v0.9 hit the streets. WHAT?!?
