@@ -12,6 +12,8 @@ Work began early in 2018 as a unique collaboration between the Mayor's Office, t
 
 ## Thank you!
 
+_A special thank you to Mayor Lori E. Lightfoot for seeing value in and sponsoring this project despite its humble origins._
+
 * Drs. Sheena Erete & Denise Nacu of DePaul University's College of Computing and Digital Media
 * Tanner Woodford at the Design Museum of Chicago
 * Stephanie, Morgan & Tim at Figma
@@ -22,10 +24,9 @@ Work began early in 2018 as a unique collaboration between the Mayor's Office, t
 * Luke & Jake at Threadless for helping out.
 * I N T E R N S!!! Huge thanks to the original intern, Tait Chamberlain, his trusty second Lukas Hoffman, and third intern Derek Hunter Ramos of 2018 fame. In 2019, Gregory Kim and Abigail Lammers helped us rock out the rest of v1 of our design system work.
 * [@kilinkis](https://twitter.com/kilinkis) for suggestions for the flag page.
+* Nick Leggin & Joe Germuska for feedback on the home page messaging.
 
 THANK YOU ALL!
-
-_A special thank you to Mayor Lori E. Lightfoot for seeing value in and sponsoring this project despite its humble origins._
 
 This work would not have been possible without Cara Bader, Derrick Brownlee, Grace Cheung, Maurice Classen, Michael Crowley, Danielle DuMerer, Douglas Hurdelbrink, Emily Krisciunas, Jamey Lundblad, Daniel Lurie, Stacey Mansker-Young, Carleton Nolan, Han Nguyen, Tim Samuelson, and many, many more at the City of Chicago. Thanks to Mayor Rahm Emanuel for originating this project and requesting someone like me be hired to work on 311 and this effort.
 

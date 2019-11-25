@@ -16,6 +16,8 @@ Here's all the new and wonderful stuff the [Design Office](https://design.chicag
 #### 2019-11-22 Friday
 
 * Whoops, fixed [chicagodesignsystem.org](https://chicagodesignsystem.org/) so it resolves to [design.chicago.gov](https://design.chicago.gov/) securely.
+* Worked with our design partner on [v2 of Census 2020](https://census2020.chicago.gov/).
+* Integrated CHI.GOV with bit.ly, testing to follow shortly... 
 
 #### 2019-11-15 Friday
 
