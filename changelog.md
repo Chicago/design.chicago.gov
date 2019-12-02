@@ -13,11 +13,20 @@ Here's all the new and wonderful stuff the [Design Office](https://design.chicag
 
 ### November
 
+#### 2019-11-29 Friday
+
+* Updated [design.chicago.gov](https://design.chicago.gov/) due to some snarky but accurate community feedback.
+* Reviewed a cool map application soon to be released by the Department of Planning & Development and their technology partner.
+* Supported internal rollout of a change to our IT processes through the start of an intranet site. Whoa, SharePoint.
+* Reviewed an ambitious proposal for how to go about reorganizing our digital information.
+* Slept off Thanksgiving feast (short week, with Friday off).
+
 #### 2019-11-22 Friday
 
 * Whoops, fixed [chicagodesignsystem.org](https://chicagodesignsystem.org/) so it resolves to [design.chicago.gov](https://design.chicago.gov/) securely.
 * Worked with our design partner on [v2 of Census 2020](https://census2020.chicago.gov/).
 * Integrated CHI.GOV with bit.ly, testing to follow shortly... 
+* Blown away by crazy good DePaul Design class presentation, more to come shortly.
 
 #### 2019-11-15 Friday
 
