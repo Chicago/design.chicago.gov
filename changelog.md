@@ -11,6 +11,14 @@ Here's all the new and wonderful stuff the [Design Office](https://design.chicag
 
 ![David Bowie Changes album cover](/assets/img/Bowiechanges2.jpg)
 
+### December
+
+#### 2019-12-06 Friday
+
+* Last week was a lot of Salesforce Marketing Cloud and Design Thinking training for DoIT staff.
+* We also spent time with the Every Youth Connected program, working to provide a beautiful quilt of equitable summer programming for Chicago's children across our 77 neighborhoods.
+* Oh, and we sprint planned and made some templates! Go team. 
+
 ### November
 
 #### 2019-11-29 Friday
