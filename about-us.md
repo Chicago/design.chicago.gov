@@ -36,15 +36,13 @@ As a new design team, we are lucky to have great examples of how design thinking
 
 ## Our team
 
-#### Jason Kunesh
-(bio)
+Well, it's just me, Jason, for now. You can find my bio on [LinkedIn](https://www.linkedin.com/in/jdkunesh/) or my site [jdkunesh.com](https://jdkunesh.com/).
 
-#### Abby Lammers
-Abby is an intern with the Design Office for the summer of 2019. As an intern, Abby is helping to introduce the Design Office and the [new design system](https://chicagodesignsystem.org) to the world, as well as assisting with UX design and research for the data science team. Abby is currently studying human-centered design in Northwestern University's M.S. Engineering Design Innovation program. She hopes that her work with DoIT and the Design Office will be her first opportunity of many to use design to give back to her adopted hometown of Chicago.
+#### Past team members and interns
 
-#### Past team members and interns (coming soon)
+Huge thanks to the original intern, Tait Chamberlain, his trusty second Lukas Hoffman, and third intern Derek Hunter Ramos of 2018 fame.
 
-[/]: # (Bio reference: https://lab.opm.gov/about/our-team/)
+In 2019, Gregory Kim and Abigail Lammers helped us rock out the rest of v1 of our design system work. Abby should get double credit, since she was part of our partnership with [Northwestern EDI Lakeside Design Studio](https://www.mccormick.northwestern.edu/news/articles/2019/03/city-of-chicago-partners-with-northwestern-engineering-to-explore-civic-service-design.html). She then DOUBLED DOWN and came back for an internship, making substantive contributions to our design system and some UX work for a data science project.
 
 ## Contact us
 
