@@ -13,6 +13,14 @@ Here's all the new and wonderful stuff the [Design Office](https://design.chicag
 
 ### December
 
+#### 2019-12-13 Friday
+
+W I C K E D...
+
+* This week was a lot of year end wrap up and transition to our new team, the Department of Assets, Information, & Services.
+* 
+* 
+
 #### 2019-12-06 Friday
 
 * Last week was a lot of Salesforce Marketing Cloud and Design Thinking training for DoIT staff.

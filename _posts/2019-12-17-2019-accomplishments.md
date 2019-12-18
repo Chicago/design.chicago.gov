@@ -10,15 +10,10 @@ It's that time of year, when Design Offices and civic institutions of all shapes
 
 Here we share a short report of our progress in 2019 for your consideration.
 
-In the Department of Innovation & Technology 2019 Strategic plan Design Office work touches on five key strategic objectives:
+## 2019 Accomplishments
 
-* Strategy 2: Improve Usability And Accessibility Of The City’s Digital Services
-* Strategy 5: Support Data-informed Decision-making
-* Strategy 6: Modernize & Consolidate Applications & Promote Efficiency Through New Implementations
-* Strategy 7: Invest In Culture, Communications, Collaboration & Staff Development
-* Strategy 8: Support Policies & Actions That Promote Digital Equity For All Residents
+### Strategy 2: Improve Usability And Accessibility Of The City’s Digital Services
 
-Below
 This strategy aims to integrate design into DoIT’s processes and use new tools and techniques that improve the usability and accessibility of the City’s digital services.
 
 ### Initiative 5: Develop Design Standards & Integrate Into DOIT Processes
@@ -55,4 +50,10 @@ Wrote the following policy and cost justification memos for readability, usabili
 ### Operational details
 
 430 code contributions across our open source projects.
+
+# 2020 Goals
+
+* Redesign Chicago.gov to be more efficient and effective in delivering accessible, equitable services and information to our diverse resident communities.
+* Successfully launch the Chicago Design System internally and externally, in digital and print.
+* Secure funding for consistent accessibility testing of all City digital applications.
 
