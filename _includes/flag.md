@@ -3,6 +3,8 @@
 ![Wikipedia's Chicago Flag](/assets/img/Flag_of_Chicago,_Illinois.svg)
 
 By <a href="https://cs.wikipedia.org/wiki/User:-xfi-" class="extiw" title="cs:User:-xfi-">cs:User:-xfi-</a> - according to <a href="https://en.wikipedia.org/wiki/User:John_Reid" class="extiw" title="en:User:John Reid">en:User:John Reid</a>'s (or T. E. Whalen's) construction sheet (<a href="https://en.wikipedia.org/wiki/Talk:Municipal_Flag_of_Chicago" class="extiw" title="en:Talk:Municipal Flag of Chicago">en:Talk:Municipal Flag of Chicago</a>), Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=516184">Link</a>
+For more details on the history of the flag, see [Robert Loerzel](https://twitter.com/robertloerzel)'s wonderfully comprehensive [The Story of Chicago’s Four-Star City Flag](https://medium.com/@robertloerzel/the-story-of-chicagos-four-star-city-flag-4042dc579cb2).
+
 
 ## Learn more about our flag and others' lesser flags
 
