@@ -13,13 +13,16 @@ Here's all the new and wonderful stuff the [Design Office](https://design.chicag
 
 ### December
 
+#### 2019-12-20 Friday
+
+* Published our year end accomplishments, re-issued an RFP, pushed out another year end program site.
+
 #### 2019-12-13 Friday
 
-W I C K E D...
+W I C K E D... Freaky Friday!
 
 * This week was a lot of year end wrap up and transition to our new team, the Department of Assets, Information, & Services.
-* 
-* 
+
 
 #### 2019-12-06 Friday
 
