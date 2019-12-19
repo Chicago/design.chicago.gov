@@ -62,20 +62,23 @@ I categorized the work as an accomplishment in one of four categories: Culture, 
 
 ## Culture
 
-* The Design Office and the City of Chicago thank Gregory Kim & Abigail Lammers for their participation as interns in 2019, working on usability testing for data visualization, testing, data cleansing, designing, and an all manner of intern-ish things. For more details on what they worked on, nose around any one of our GitHub repositories. [This is a good one to start with](https://github.com/Chicago/design-projects). _(2,5,7,8)_
-* City of Chicago Partners with Northwestern Engineering to Explore Civic Service Design _(2,7,8)_  
+* _Awesome interns give hundreds of hours of design help to Chicago_  
+The Design Office and the City of Chicago thank Gregory Kim & Abigail Lammers for their participation as interns in 2019, working on usability testing for data visualization, testing, data cleansing, designing, and an all manner of intern-ish things. For more details on what they worked on, nose around any one of our GitHub repositories. [This is a good one to start with](https://github.com/Chicago/design-projects). _(2,5,7,8)_
+* _City of Chicago Partners with Northwestern Engineering to Explore Civic Service Design_  
+We set free a team of service designers from Northwestern's EDI program to understand how people in difficult contexts get services from the City. The answers frustrated at times, but often gave hope for a better way of doing things. _(2,7,8)_  
 [https://www.mccormick.northwestern.edu/news/articles/2019/03/city-of-chicago-partners-with-northwestern-engineering-to-explore-civic-service-design.html](https://www.mccormick.northwestern.edu/news/articles/2019/03/city-of-chicago-partners-with-northwestern-engineering-to-explore-civic-service-design.html).
-* Designing with DePaul EXP 480, twice. More on this later, but in short, these folks could put yours truly out of a job like blowing out a birthday cake candle. [Just check out this file if you don't believe me.](https://www.figma.com/file/Rvq92XBBm4lyMM9dtd0TGI/EXP480%3A-Chicago-Design-System-Library-Suggestions-and-Add-ons?node-id=0%3A1)
-* University of Chicago Design Thinking Innovation Challenge  
+* _DePaul EXP 480_  
+Designing with DePaul EXP 480, twice, thanks to Drs. Denise Naicu & Sheena Erete, special thanks to Sheena for round two. More on this later, but in short, these folks could put yours truly out of a job like blowing out a candle on a birthday cake. [Just check out this file if you don't believe me.](https://www.figma.com/file/Rvq92XBBm4lyMM9dtd0TGI/EXP480%3A-Chicago-Design-System-Library-Suggestions-and-Add-ons?node-id=0%3A1) You ever have see of those presentations where you are so wowed by the work and the spirit and the humility you sit in the car after & cry a little from gratitude? Yeah, me neither.  
+* _University of Chicago Design Thinking Innovation Challenge_  
 We paired U of C MBA students with different departments across the City to re-imagine common service experiences through design thinking and prototyping. 
 [https://polsky.uchicago.edu/event/uchicago-design-thinking-innovation-challenge/](https://polsky.uchicago.edu/event/uchicago-design-thinking-innovation-challenge/)
-* Think Chicago
+* _Think Chicago_  
 Facilitated the Think Chicago design challenge again, and they stiffed me on tickets again. Something tells me Lollapalooza has a no old man policy. Wiser than they look. I'm kidding, I do it because it's an awesome event, and I get to try out so many dad jokes on the country's brightest young graduates. Win-Win. If they can survive it, they can thrive in Chicago.  
 [http://www.thinkchicago.net/](http://www.thinkchicago.net/)
 * Array of Thing Hackathon Support & Facilitation _(7,8)_
 * Over 500 code contributions across our open source projects. _(2,5–8)_
-* Spoke at San Francisco Design Week, Design For America, Government Digital Summit, Adobe Creative Jam.
 * Found two speaking opportunities for co-workers from under-represented populations in technology, at [Code for America](https://www.codeforamerica.org/) & [Chicago Camps](http://chicagocamps.org/).
+* Spoke at San Francisco Design Week, Design For America, Government Digital Summit, Adobe Creative Jam.
 
 ## Process
 
@@ -101,10 +104,10 @@ Facilitated the Think Chicago design challenge again, and they stiffed me on tic
     - *Moving Chicago Forward* is a retrospective site of Mayor Rahm Emanuel's two terms in office. [https://movingforward.chicago.gov/](https://movingforward.chicago.gov/)
     - *Resilient Chicago* is a website highlighting the resilience plan of Chicago, funded by the Rockefeller Foundation. [http://resilient.chicago.gov/](http://resilient.chicago.gov/)
     - *New Start Chicago* is a home page for the Mayor's debt relief, ticket, and sticker amnesty programs. [https://www.chicago.gov/city/en/sites/newstartchicago/home.html](https://www.chicago.gov/city/en/sites/newstartchicago/home.html)
-    - *Cannabis Information Center* describing the impact of cannabis legalization on Chicagoans. (launching soon, available on our internal network at https://qa.chicago.gov/city/en/sites/cannabis-information-center/home.html) See current press release here. [https://www.chicago.gov/city/en/depts/cdph/provdrs/healthy_living/news/2019/november/mayor-lightfoot-and-city-health-officials-announce--cannabis-fac.html](https://www.chicago.gov/city/en/depts/cdph/provdrs/healthy_living/news/2019/november/mayor-lightfoot-and-city-health-officials-announce--cannabis-fac.html)
+    - *Cannabis Information Center* describing the impact of cannabis legalization on Chicagoans. [https://www.chicago.gov/city/en/sites/cannabis-information-center/home.html](https://www.chicago.gov/city/en/sites/cannabis-information-center/home.html)
     - Alpha city site [https://alpha.chicago.gov/](https://alpha.chicago.gov/)
 
-[Talk - action = 💩](https://www.youtube.com/watch?v=DD9Pm2OfXFI) as the Brian Jonestown Massacre has let it be known.
+[Talk - action = 💩](https://www.youtube.com/watch?v=DD9Pm2OfXFI) as the Brian Jonestown Massacre has let it be known. Hopefully, we avoided that category for our efforts this year.
 
 ## Miscellanous
 
