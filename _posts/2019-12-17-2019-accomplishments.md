@@ -123,7 +123,7 @@ Facilitated the Think Chicago design challenge again, and they stiffed me on tic
     - Many partnerships, little direct interaction with residents for staff due to legal and logistical reasons. It's a frustrating barrier we'd like to bridge.
     - For all the work on moving our paperwork through procurement, starting in January, to come away without a new website in the works or being planned is painful.
 * Things that happened but didn't even merit mention  
-Multiple prototypes, project management, product management, application development, data-wrangling, and ordinance interpreting. Train ignored, training delivering, training taken. Lots of ethics & security. Still no pizza party, but perhaps that belons in the one that got away. And this concludes our 2019 report.
+Multiple prototypes, project management, product management, application development, data-wrangling, and ordinance interpreting. Train ignored, training delivering, training taken. Lots of ethics & security. Still no pizza party, but perhaps that belongs in the one that got away. And this concludes our 2019 report.
 
 ## Conclusion
 
