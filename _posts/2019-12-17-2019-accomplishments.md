@@ -54,11 +54,11 @@ NO, Mostly. We did a better job of telling our story with sites like [design.chi
 
 ## Design Office accomplishments
 
-As a result of the context above, I will not attempt to tie the work below to individual initiatives under each strategic objective described in an internal planning document. Each piece of work will be tied back to the aforementioned strategies by number, like so:
+As a result of the context above, I will not attempt to tie the work below to individual initiatives under each strategic objective from an internal planning document. Instead, each piece of work will be tied back to the aforementioned strategies by number, like so:
 
 * This work product or activity was performed. _(2, 5, 7)_
 
-I categorized the work as an accomplishment in one of four categories: Culture, Process, Product, and the ever-lovin' Miscellaneous.
+We (the royal 'we') view design work as falling into one of four categories, generally: Culture, Process, Product, and the ever-lovin' Miscellaneous.
 
 ## Culture
 
