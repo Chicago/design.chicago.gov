@@ -2,9 +2,15 @@
 
 ![Wikipedia's Chicago Flag](/assets/img/Flag_of_Chicago,_Illinois.svg)
 
-By <a href="https://cs.wikipedia.org/wiki/User:-xfi-" class="extiw" title="cs:User:-xfi-">cs:User:-xfi-</a> - according to <a href="https://en.wikipedia.org/wiki/User:John_Reid" class="extiw" title="en:User:John Reid">en:User:John Reid</a>'s (or T. E. Whalen's) construction sheet (<a href="https://en.wikipedia.org/wiki/Talk:Municipal_Flag_of_Chicago" class="extiw" title="en:Talk:Municipal Flag of Chicago">en:Talk:Municipal Flag of Chicago</a>), Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=516184">Link</a>
+By [https://cs.wikipedia.org/wiki/User:-xfi-](User XFI (!?!)) - according to a design specified by [Wikipedia user John Reid](https://en.wikipedia.org/wiki/User:John_Reid) or [T. E. Whalen's](http://introvert.net/blog/2004/04/17/what-is-the-deal-with-the-stars-on-the-chicago-flag/)) construction sheet ([Municipal Flag of Chicago](https://en.wikipedia.org/wiki/Talk:Municipal_Flag_of_Chicago)), which is in the public domain, and thus represented here.
+
 For more details on the history of the flag, see [Robert Loerzel](https://twitter.com/robertloerzel)'s wonderfully comprehensive [The Story of Chicago’s Four-Star City Flag](https://medium.com/@robertloerzel/the-story-of-chicagos-four-star-city-flag-4042dc579cb2).
 
+[Tanner Woodford](https://tannerwoodford.com/), Executive Director of the [Design Museum of Chicago](https://designchicago.org/), had this contribution to share with us, an outline of the dimensions of the Flag:
+
+![An outline of the dimensions of the Chicago Flag, its proportions, and placement of its stars and bars.](/assets/img/Design-Museum-of-Chicago-flag-exoskeleton.png)
+
+I don't mean to disagree or spark debate, but I think Robert & Tanner & T.E. may need to compare notes with us at the City and arrive at a final determination. I volunteer to mediate it in 2020 or beyond, or find someone with appropriate gravitas to do so, certainly. 
 
 ## Learn more about our flag and others' lesser flags
 
