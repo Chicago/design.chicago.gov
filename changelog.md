@@ -13,6 +13,11 @@ Here's all the new and wonderful stuff the [Design Office](https://design.chicag
 
 ### December
 
+#### 2019-12-27 Friday
+
+* Short week for the design office, mostly administrivia and planning for next year.
+* Improvements to our social sharing icon on Twitter.
+
 #### 2019-12-20 Friday
 
 * Published our year end accomplishments, re-issued an RFP, pushed out another year end program site.
