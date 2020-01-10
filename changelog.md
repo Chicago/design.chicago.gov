@@ -11,6 +11,18 @@ Here's all the new and wonderful stuff the [Design Office](https://design.chicag
 
 ![David Bowie Changes album cover](/assets/img/Bowiechanges2.jpg)
 
+### January
+
+#### 2020-01-10 Friday
+
+* Lots of meetings and writeups of the Chicago Design System, for BACP's Chicago Business Direct and a few other upcoming projets, including an awesome Violence Dashboard.
+
+#### 2020-01-03 Friday
+
+2020, huh? 
+
+* Short week for the design office, mostly administrivia and planning for next year.
+
 ### December
 
 #### 2019-12-27 Friday
