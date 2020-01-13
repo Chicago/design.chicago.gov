@@ -15,7 +15,7 @@ Here's all the new and wonderful stuff the [Design Office](https://design.chicag
 
 #### 2020-01-10 Friday
 
-* Lots of meetings and writeups of the Chicago Design System, for BACP's Chicago Business Direct and a few other upcoming projets, including an awesome Violence Dashboard.
+* Lots of meetings and writeups of the Chicago Design System, for BACP's Chicago Business Direct and a few other upcoming projects, including an awesome Violence Dashboard.
 
 #### 2020-01-03 Friday
 
