@@ -13,6 +13,13 @@ Here's all the new and wonderful stuff the [Design Office](https://design.chicag
 
 ### January
 
+#### 2020-01-17 Friday
+
+* Met with the Graphics Reproduction and Print team to share a bit more about how we work. I learned the team produced 40mm prints last year, half of which the team designed. I shared a bit about my work, but left feeling like I hadn't done a great job.
+* Bootstrap 4 theme progress is okay, with a few minor items to clean up or verify for a solid alpha launch. Content Delivery Network deployment is the theme of milestone 5. You can [see all our milestones](https://github.com/Chicago/design-cds-bootstrap/milestones). Most of the [CDN work is here](https://github.com/Chicago/design-cds-bootstrap/issues/56).
+* Got a cold so was out for a day.
+* Met with BACP & a consortium of teams (Mayor's Office, Police, U of Chicago) on a Violence Prevention Dashboard. In each case, we reviewed design issues for each product & group, offered specific advice on their issues, and then explained how the Chicago Design System work can help them produce good looking, accessible work.
+
 #### 2020-01-10 Friday
 
 * Lots of meetings and writeups of the Chicago Design System, for BACP's Chicago Business Direct and a few other upcoming projects, including an awesome Violence Dashboard.
