@@ -11,7 +11,29 @@ Here's all the new and wonderful stuff the [Design Office](https://design.chicag
 
 ![David Bowie Changes album cover](/assets/img/Bowiechanges2.jpg)
 
+
+### February
+
+_Beginning in February, changelog will be updated on Thursdays._ 
+
 ### January
+
+#### 2020-01-31 Friday
+
+* Help various Mayor's Office initiatives plan to utilize user engagement methods and resources to gather feedback in upcoming public meetings.
+* Support for the Mayor's Newsletter & web page support, newsletter published Friday. 
+* Reviewed and provided design feedback on the Violence Prevention Dashboard production site as it is readied for launch.
+* Design support for launch of the Chicago Design System. Launch upcoming.
+* Finished presentation for Config, the first Figma conference. Very excited.
+* Worked with 311 and OEMC on logo lockups for new print and social designs they have coming out. Rad!
+* In progress on producing an overaall viewpoint for our teams (AIS) to use in responding to branding questions from departments.
+
+
+
+#### 2020-01-24 Friday
+
+* Lots of internal re-alignment as we roll through the AIS merger.
+
 
 #### 2020-01-17 Friday
 
