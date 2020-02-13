@@ -16,6 +16,21 @@ Here's all the new and wonderful stuff the [Design Office](https://design.chicag
 
 _Beginning in February, changelog will be updated on Thursdays._ 
 
+#### 2020-02-13 Thursday
+
+* Drafted a sprint plan for all milestones supporting the digital launch of the new design system on March 4th, including post-launch activities. Upcoming milestones are available here: https://github.com/Chicago/design-cds-bootstrap/milestones
+* Reviewing our Figma files and team presence in preparation for launch.
+* Debriefed internally on Aldermanic Committee websites to determine our approach and support requirements.
+* Met with Graphics team to continue discussion of how we can roll out our brand internally and externally. More exciting work here soon.
+
+#### 2020-02-06 Thursday
+
+* Produced multiple versions of new 311 logo for social media.
+* Sprint planning for our next round of sprints, and pushed our latest Bootstrap 4 theme code to our CDN.
+* Attended Figma conference for the City and presented a talk. I learned of new features and enhancements to Figma which should make us more efficient and effective in designing interfaces.
+* Debriefed with City Clerk's office on plans for Aldermanic Committee websites, since we have fielded requests for new sites from these committees recently.
+* Addressed North Central College class in an online Q&A presentation about design in social spaces.
+
 ### January
 
 #### 2020-01-31 Friday
