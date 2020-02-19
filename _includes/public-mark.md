@@ -28,11 +28,6 @@
   <br>
   <br>
     <p><img src="/assets/img/logo/LOGO-CHICAGO-horizontal 311.png" class="logo-display" alt="" /></p>
-    <p><img src="/assets/img/logo/LOGO-CHICAGO-horizontal AIMS.png" class="logo-display" alt="" /></p>
-    <p><img src="/assets/img/logo/LOGO-CHICAGO-horizontal CDOT.png" class="logo-display" alt="" /></p>
-    <p><img src="/assets/img/logo/LOGO-CHICAGO-horizontal DCASE.png" class="logo-display" alt="" /></p>
-    <p><img src="/assets/img/logo/LOGO-CHICAGO-horizontal FINANCE.png" class="logo-display" alt="" /></p>
-  <br>
   <br>
   </div>
 </div>
@@ -42,8 +37,6 @@
   <br>
   <p><img src="/assets/img/logo/LOGO-partnership-examples.png" alt="" /></p>
   <h2 id="community-partnerships">Community partnership & public expressions</h2>
-<br>
-  <p><img src="/assets/img/logo/LOGO-remix-institutions.png" alt="" /></p>
 <br>
 <br>
   <p><img src="/assets/img/logo/LOGO-remix-cultural.png" alt="" /></p>
