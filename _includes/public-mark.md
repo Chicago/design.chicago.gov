@@ -17,7 +17,7 @@
 <br>
     <p><img src="/assets/img/logo/LOGO-CHICAGO-horizontal.png" alt="" style="padding: 3em 0;"/></p>
 <br>
-    <p><img src="/assets/img/logo/LOGO-CHICAGO-vertical.png" alt="" width="25%" style="padding: 2em 0;"  class="logo-display"/></p>
+    <p><img src="/assets/img/logo/LOGO-CHICAGO-vertical.png" alt="" width="25%" style="padding: 2em 0;"/></p>
 <br>
 <br>
   </div>

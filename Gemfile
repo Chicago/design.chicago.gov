@@ -15,7 +15,7 @@ group :jekyll_plugins do
   gem "jekyll-remote-theme"
   gem "nokogiri", ">= 1.10.4"
 end
-
+gem "rubyzip", ">= 1.3.0"
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem "tzinfo-data", platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
