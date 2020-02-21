@@ -7,7 +7,7 @@
   <div class="usa-width-one-whole" id="welcome-panel">
     <h1 id="public-mark">Public Mark</h1>
     <p>Our new public mark is the public voice of the City of Chicago, our residents, and our communities.</p>
-    <p><a href="/assets/downloads/LOGO-CHICAGO-20191009.zip">Download our logo in Adobe Illustrator, PNG (portable network graphics), and SVG (scalable vector graphics) formats</a> and display your Chicago pride today!</p>
+    <p><a href="/assets/downloads/PUBLIC-MARK-CHICAGO.zip">Download our logo in Adobe Illustrator, PNG (portable network graphics), and SVG (scalable vector graphics) formats</a> and display your Chicago pride today!</p>
 
   </div>
 </div>

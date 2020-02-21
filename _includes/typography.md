@@ -1,9 +1,6 @@
-## Typography
+## Our municipal typeface
 
-
-### Big Shoulders
-
-![A Picture of Big Shoulders Typeface set in different faces with Chicago Stars](/assets/img/big-shoulder-splash.png)
+![A Picture of Big Shoulders Typeface](/assets/img/BigShoulders_Type.png)
 
 Big Shoulders is the Municipal Typeface for the City of Chicago. It is for use in headings, titles, banners, and posters. Setting type in all capitals is recommended.
 
@@ -11,13 +8,22 @@ Big Shoulders Display is for large format, environmental prints: signage, billbo
 
 [Roboto](https://fonts.google.com/specimen/Roboto) and [Lora](https://fonts.google.com/specimen/Lora) are the City's sans serif and serif body typefaces.
 
-The easiest way to get started is to open a [Google doc](https://docs.google.com/document/u/0/). Once there, you can turn on all the typefaces and make yourself a document.
+The next level up is to install the fonts on your own computer. The latest version will always be available on [Google Fonts](https://fonts.google.com/).
 
-The next level up is to install the fonts on your own computer. The latest version will always be available on [Google Fonts](https://fonts.google.com/) or you can [download a zip of them all here](/assets/downloads/FONTS-CHICAGO-20191115.zip).
+## Resources
 
-[Download Big Shoulders from Google Fonts](https://fonts.google.com/?query=big+shoulders)
+* Get [Big Shoulders Display](https://fonts.google.com/specimen/Big+Shoulders+Display) for large format, environmental prints: signage, billboards, banners, etc.
+* Get [Big Shoulders Text](https://fonts.google.com/specimen/Big+Shoulders+Text) for all other display purposes.
+* Get [Roboto](https://fonts.google.com/specimen/Roboto) and [Lora](https://fonts.google.com/specimen/Lora), the City's sans serif and serif body typefaces.
 
 To put a Chicago Star in your typesetting, turn on discretionary ligatures in your app or CSS, and then type CHISTAR (in all caps). It’ll automatically replace with the star, sized correctly to fit the text.
+
+<p>Now, you can make ASCII art, or get tatooed with exactly the right Chicago Star.</p>
+<p>=======</p>
+<p class="chistar">CHISTAR CHISTAR CHISTAR CHISTAR</p>
+<p>=======</p>
+
+If that didn't work, these images show the difference betweeen turning ligatures on and off. In this case, in Figma.
 
 ![](/assets/img/CHISTAR-1.png)
 _Ligatures off, CHISTAR._
@@ -25,4 +31,5 @@ _Ligatures off, CHISTAR._
 ![](/assets/img/CHISTAR-2.png)
 _Ligatures on, our Chicago Star!_
 
-[Here is an example file in Figma](https://www.figma.com/c/file/777299502625879332).
+[Here is an example Figma file](https://www.figma.com/c/file/777299502625879332). 
+Note: you cannot turn on ligatures in Google Docs. :(

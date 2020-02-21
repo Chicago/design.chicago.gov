@@ -25,24 +25,40 @@ The system is made up of the elements themselves, like a public mark, a new seal
 
 ### Figma
 
-The easiest way to get started is to use Figma, an interactive design tool. Visit [https://www.figma.com/@chicago](https://www.figma.com/@chicago) in a modern web browser, duplicate our Sticker Sheet, and you're in business. If you're not one of those people who likes starting with a lot of stuff, it maybe overwhelming to look at, so...
+The easiest way to get started is to use Figma, an interactive design tool. Visit [https://www.figma.com/@chicago](https://www.figma.com/@chicago) in a modern web browser, and use the files found there to make a public mark, a website, or your next tattoo.
 
 ### Google Docs
 
-The next easiest way to get started is to [download the new public mark](/assets/downloads/LOGO-CHICAGO-20191009.zip) and then open a [Google doc](https://docs.google.com/document/u/0/). Ah, a nice blank document you can put images and type all over.
+The next easiest way to get started is to [download the new public mark](/assets/downloads/PUBLIC-MARK-CHICAGO.zip) and then open a <a href="https://docs.google.com/document/d/1eVXsgPNEBjV5oo9R0RrLZR-RWVbghuT4tj-Jsr6_hZg/edit?usp=sharing" target="_blank">Google doc</a>. Ah, a nice blank document with a couple fonts in there for you to put images in and type all over.
 
 Now, you can turn on all our municipal typefaces and design away: 
 
 ![Add fonts to your document in Google docs.](/assets/img/google-docs-1.png)
 ![Enter in Big Shoulders and other font names, then add them to your fonts.](/assets/img/google-docs-2.png)
 
-### Downloads
+### Resources
 
-[Download the mark](/assets/downloads/LOGO-CHICAGO-20191009.zip) and fonts to your computer. The latest version will always be available on [Google Fonts](https://fonts.google.com/) or you can [download a zip of them all here](/assets/downloads/FONTS-CHICAGO-20191115.zip).
+* Get [Big Shoulders Display](https://fonts.google.com/specimen/Big+Shoulders+Display) for large format, environmental prints: signage, billboards, banners, etc.
+* Get [Big Shoulders Text](https://fonts.google.com/specimen/Big+Shoulders+Text) for all other display purposes.
+* Get [Roboto](https://fonts.google.com/specimen/Roboto) and [Lora](https://fonts.google.com/specimen/Lora), the City's sans serif and serif body typefaces.
+* [Download the mark](/assets/downloads/PUBLIC-MARK-CHICAGO.zip) or use the Figma files.
 
-### Super-important
+## Resources
 
-To make an actual, honest-to-goodness Chicago Star in your typesetting, turn on discretionary ligatures in your application or CSS, and then type CHISTAR (in all caps). It’ll automatically replace with the star, sized correctly to fit the text.
+* Get [Big Shoulders Display](https://fonts.google.com/specimen/Big+Shoulders+Display) for large format, environmental prints: signage, billboards, banners, etc.
+* Get [Big Shoulders Text](https://fonts.google.com/specimen/Big+Shoulders+Text) for all other display purposes.
+* Get [Roboto](https://fonts.google.com/specimen/Roboto) and [Lora](https://fonts.google.com/specimen/Lora), the City's sans serif and serif body typefaces.
+
+### CHISTAR Ligatures
+
+To make an actual, honest-to-goodness Chicago Star in your typesetting, turn on discretionary ligatures in your app or CSS, and then type CHISTAR (in all caps). It’ll automatically replace with the star, sized correctly to fit the text.
+
+<p>Now, you can make ASCII art, or get tatooed with exactly the right Chicago Star.</p>
+<p>=======</p>
+<p class="chistar">CHISTAR CHISTAR CHISTAR CHISTAR</p>
+<p>=======</p>
+
+If that didn't work, these images show the difference betweeen turning ligatures on and off. In this case, in Figma.
 
 ![](/assets/img/CHISTAR-1.png)
 _Ligatures off, CHISTAR._
@@ -50,7 +66,9 @@ _Ligatures off, CHISTAR._
 ![](/assets/img/CHISTAR-2.png)
 _Ligatures on, our Chicago Star!_
 
-[Here is an example file in Figma](https://www.figma.com/c/file/777299502625879332).
+[Here is an example Figma file](https://www.figma.com/c/file/777299502625879332). 
+
+Note: you cannot turn on ligatures in Google Docs. :(
 
 ## Developers & Technology Partners
 
@@ -64,7 +82,7 @@ You can see all our [different Jekyll-based machinations here](https://github.co
 
 ## City of Chicago Employees
 
-For employees, this style is coming soon to a neighborhood near you. Today, font installation may require your ITSC or someone with administrator rights to install a lot of fonts on your machine. Like, "buy them donuts" a lot of installs. But, once you do that, you can access our [City of Chicago internal style guide](https://cityofchicago.frontify.com/hub/2). Check it out for templates of all kinds to make your communication crisp.
+For employees, fonts should already be installed on your computer. If not, font installation may require your ITSC or someone with administrator rights to install them on your machine. Like, "buy them donuts" a lot of installs. But, once you do that, you can access our [City of Chicago internal style guide](https://cityofchicago.frontify.com/hub/2). Check it out for templates of all kinds to make your communication crisp.
 
 If you are interested in using this work in a technology project today, see the Developers section, above, for current status. Ask your ITSC for help, or ping us through the channels below. You can also visit our [Microsoft Teams channel here](https://teams.microsoft.com/l/channel/19%3a8ab7199f764c432bb95b8942a483d250%40thread.skype/General?groupId=95398257-9bb7-4cbe-bab4-c9cad0db2e2f&tenantId=7036cda9-062d-4151-8144-97ddc56e7027).
 
