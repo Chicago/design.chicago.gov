@@ -17,18 +17,28 @@
 <br>
     <p><img src="/assets/img/logo/LOGO-CHICAGO-horizontal.png" alt="" style="padding: 3em 0;"/></p>
 <br>
-    <p><img src="/assets/img/logo/LOGO-CHICAGO-vertical.png" alt="" width="25%" style="padding: 2em 0;"/></p>
+    <p><img src="/assets/img/logo/LOGO-CHICAGO-vertical.png" alt="" width="25%" style="padding: 2em 0;"  class="logo-display"/></p>
 <br>
 <br>
   </div>
 </div>
 <div class="usa-grid">
-<div class="usa-width-one-whole">
-  <h2 id="departmental">Department marks</h2>
-  <br>
-  <br>
-    <p><img src="/assets/img/logo/LOGO-CHICAGO-horizontal 311.png" class="logo-display" alt="" /></p>
-  <br>
+  <div class="usa-width-one-whole">
+    <h2 id="departmental">Department marks</h2>
+  </div>
+</div>
+<div class="usa-grid">
+  <div class="usa-width-one-half">
+    <br>
+    <br>
+      <p><img src="/assets/img/logo/CHI311-h.png" alt="CHI311 horizontal mark" /></p>
+    <br>
+  </div>
+  <div class="usa-width-one-half">
+    <br>
+    <br>
+      <p><img src="/assets/img/logo/CHI311-v.png" alt="CHI311 vertical mark" /></p>
+    <br>
   </div>
 </div>
 <div class="usa-grid">
