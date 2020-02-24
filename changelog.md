@@ -16,6 +16,10 @@ Here's all the new and wonderful stuff the [Design Office](https://design.chicag
 
 _Beginning in February, changelog will be updated on Thursdays._ 
 
+#### 2020-02-20 Thursday
+
+* Cranking away for launch. Policy & Strategery.
+
 #### 2020-02-13 Thursday
 
 * Drafted a sprint plan for all milestones supporting the digital launch of the new design system on March 4th, including post-launch activities. Upcoming milestones are available here: https://github.com/Chicago/design-cds-bootstrap/milestones
