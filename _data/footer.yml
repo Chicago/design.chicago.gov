@@ -31,7 +31,7 @@ heading: Chicago Design Office
 # Configuration for agency logo(s) (shown side by side).
 # If the logo is external add external: true
 logos:
-  - src: /assets/img/city-seal-black-2019.png
+  - src: /assets/img/seals/1990-blue.png
     alt: Seal of the City of Chicago
     external: false
 

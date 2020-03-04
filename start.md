@@ -19,7 +19,7 @@ The Chicago Design System (CDS) is a guide to producing delightful information, 
 
 In addition, this is the first municipal design system built for the public and government use. This is a platform that allows people to express their personal, community, and civic pride in Chicago. It gives the City of Chicago clearer, more effective communications through a uniform identity people can recognize and trust.
 
-The system is made up of the elements themselves, like a public mark, a new seal, colors, and type families, as well as expressions of this brand as a logo, in a document template, an interactive prototype, or the code to make a website. There's also a set of recipes to use for human-centered design work on your project. 
+The design system is made up of elements ilke our public mark, our new civic typeface, colors, secondary type families, and internet widgets. It includes the mark, document template, interactive prototypes, and the code to make a website. There's also a set of recipes to use for human-centered design work on your project.
 
 ## Everyone
 
