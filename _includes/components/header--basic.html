@@ -4,6 +4,13 @@ This is basic header for use in the Chicago Design System.
 
 {% endcomment %}
 
+
+<style>
+  #main-content {
+	width: 100% !important;
+}
+</style>
+
 {% if header %}
 {% capture subtitle %}{{ header.subtitle | default: site.subtitle }}{% endcapture %}
 
