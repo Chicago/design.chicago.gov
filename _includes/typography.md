@@ -1,3 +1,6 @@
+---
+---
+
 ## Our municipal typeface
 
 ![A Picture of Big Shoulders Typeface](/assets/img/BigShoulders_Type.png)
