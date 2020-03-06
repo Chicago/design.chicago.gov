@@ -1,6 +1,6 @@
 ---
 permalink: /accessibility/
-layout: post
+layout: page
 filename: accessiblity.md
 title: Accessibility
 page_title: Accessibility

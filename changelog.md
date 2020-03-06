@@ -16,7 +16,11 @@ Here's all the new and wonderful stuff the [Design Office](https://design.chicag
 
 _Beginning in February, changelog will be updated on Thursdays._ 
 
-#### 2020-02-20 Thursday
+#### 2020-03-04, Wednesday
+
+* We launched a [new Chicago Design System](https://www.youtube.com/watch?v=bSPKTfO5M8I&feature=youtu.be), people.
+
+#### 2020-02-20, 2-27 Thursday
 
 * Cranking away for launch. Policy & Strategery.
 

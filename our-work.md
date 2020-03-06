@@ -2,7 +2,7 @@
 title: Our Work
 permalink: /our-work/
 
-layout: page
+layout: post
 sidenav:
   - text: How We Work
     href: '/our-work/#how-we-work'

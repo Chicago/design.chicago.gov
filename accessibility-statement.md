@@ -2,7 +2,6 @@
 title: Accessibility statement
 layout: page
 permalink: /accessibility-statement/
-layout: page
 filename: accessibility-statement.md
 
 ---
