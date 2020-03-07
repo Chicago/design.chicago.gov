@@ -6,4 +6,4 @@ permalink: /city-seal
 
 ---
 
-{% include seals.md %}
+{% include seals.html %}

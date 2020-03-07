@@ -6,4 +6,4 @@ permalink: /public-mark
 
 ---
 
-{% include public-mark.md %}
+{% include public-mark.html %}
