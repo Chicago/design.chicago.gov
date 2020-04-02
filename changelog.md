@@ -13,6 +13,11 @@ Here's all the new and wonderful stuff the [Design Office](https://design.chicag
 
 
 
+### April
+
+#### 2020-04-02, Thursday
+
+* Continued development of our [Chicago's COVID-19 Response](https://chicago.gov/coronavirus) presence, including translation and charting services.
 
 ### March
 
