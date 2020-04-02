@@ -12,13 +12,21 @@ Here's all the new and wonderful stuff the [Design Office](https://design.chicag
 ![David Bowie Changes album cover](/assets/img/Bowiechanges2.jpg)
 
 
-### February
 
-_Beginning in February, changelog will be updated on Thursdays._ 
+
+### March
+
+#### 2020 March
+
+* We launched [Chicago's COVID-19 Response](https://chicago.gov/coronavirus) and migrated our team to telework.
+
 
 #### 2020-03-04, Wednesday
 
 * We launched a [new Chicago Design System](https://www.youtube.com/watch?v=bSPKTfO5M8I&feature=youtu.be), people.
+
+### February
+_Beginning in February, changelog will be updated on Thursdays._ 
 
 #### 2020-02-20, 2-27 Thursday
 
