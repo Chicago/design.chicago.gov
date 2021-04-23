@@ -18,7 +18,7 @@ To see how we did in 2020, let's review our goals:
 * *Successfully launch the Chicago Design System internally and externally, in digital and print.* Consider this goal as a warning against the use of adverbs. We launched. It was great. The Mayor shook my hand. Then COVID hit and we shelved the work of this office. 
 * *Secure funding for consistent accessibility testing of all City digital applications.* I am happy to say that when a door is open a window closes? Is that how God says it? Well, regardless, COVID showed how digital services is an equity issue. It opened the door to financing for better translation and a11y testing, and we defined a TACO. Not a tasty treat, but a Technical Accessibility Compliance Officer to help set strategy and tactics for our digital inclusion work.
 
-![Mayor Lori Lightfoot shaking hands with Jason Kunesh at the launch of the Chicago Design System](assets/img/0W7A9648-960.JPG)
+![Mayor Lori Lightfoot shaking hands with Jason Kunesh at the launch of the Chicago Design System](/assets/img/0W7A9648-960.JPG)
 
 ## The impact of COVID-19
 
