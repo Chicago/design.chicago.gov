@@ -7,6 +7,7 @@ source "https://rubygems.org"
 #     bundle exec jekyll serve
 #
 gem "jekyll", ">= 3.6.3"
+gem "kramdown", ">= 2.3.1"
 gem "github-pages", group: :jekyll_plugins
 
 # If you have any plugins, put them here!
