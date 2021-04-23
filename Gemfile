@@ -14,7 +14,7 @@ gem "github-pages", group: :jekyll_plugins
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.6"
   gem "jekyll-remote-theme"
-  gem "nokogiri", ">= 1.10.4"
+  gem "nokogiri", ">= 1.11.0"
 end
 gem "rubyzip", ">= 1.3.0"
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
