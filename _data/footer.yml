@@ -44,10 +44,10 @@ contact:
    #   href: https://facebook.com
    #   external: true
    #   type: facebook
-    - text: Twitter
-      href: https://www.twitter.com/ChiDesignDir
-      external: true
-      type: twitter
+   # - text: Twitter
+   #   href: https://www.twitter.com/ChiDesignDir
+   #   external: true
+   #   type: twitter
   # - text: RSS Feed
   #   href: https://usa.gov/
   #   external: true
@@ -60,8 +60,8 @@ contact:
     - text: chicago.gov
       href: https://www.chicago.gov
       external: true
-    - text: Department of Assets Information & Services
+    - text: Department of Assets,Information & Services
       href: https://www.chicago.gov/city/en/depts/doit.html
       external: true
-    - text: "333 S State St #420 Chicago, IL 60604"
+    - text: "333 S.State St #420 Chicago, IL 60604"
       href: https://www.chicago.gov/city/en/depts/doit.html
