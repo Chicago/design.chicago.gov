@@ -25,5 +25,4 @@ There you can download Big Shoulders, our free, open source municipal typeface f
 ## Icons
 ![Examples of icons you can download for free](/assets/img/icon-examples.png)
 
-Download a [usage guide by department in Adobe Illustrator](/assets/downloads/CityofChicago Icons.ai) or [a zip archive of icons in individual SVG (scalable vector graphics) files, ready for use](/assets/downloads/CityofChicago Icons-SVG.zip).
 
