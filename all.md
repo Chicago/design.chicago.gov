@@ -17,7 +17,7 @@ title: All assets
 
 <h2 id="public-mark">Public Mark</h2>
 <p>Our new public mark is the public voice of the City of Chicago, our residents, and our communities.</p>
-<p><a href="/assets/downloads/PUBLIC-MARK-CHICAGO.zip">Download our logo in Adobe Illustrator, PNG (portable network graphics), and SVG (scalable vector graphics) formats</a> and display your Chicago pride today!</p>
+
 
 <br>
 <p><img src="/assets/img/logo/LOGO-CHICAGO-horizontal.png" alt="" style="padding: 3em 0;"/></p>
