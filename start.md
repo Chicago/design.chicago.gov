@@ -29,7 +29,7 @@ The easiest way to get started is to use Figma, an interactive design tool. Visi
 
 ### Google Docs
 
-The next easiest way to get started is to [download the new public mark](/assets/downloads/PUBLIC-MARK-CHICAGO.zip) and then open a <a href="https://docs.google.com/document/d/1eVXsgPNEBjV5oo9R0RrLZR-RWVbghuT4tj-Jsr6_hZg/edit?usp=sharing" target="_blank">Google doc</a>. Ah, a nice blank document with a couple fonts in there for you to put images in and type all over.
+The next easiest way to get started is to open a <a href="https://docs.google.com/document/d/1eVXsgPNEBjV5oo9R0RrLZR-RWVbghuT4tj-Jsr6_hZg/edit?usp=sharing" target="_blank">Google doc</a>. Ah, a nice blank document with a couple fonts in there for you to put images in and type all over.
 
 Now, you can turn on all our municipal typefaces and design away: 
 
@@ -41,7 +41,7 @@ Now, you can turn on all our municipal typefaces and design away:
 * Get [Big Shoulders Display](https://fonts.google.com/specimen/Big+Shoulders+Display) for large format, environmental prints: signage, billboards, banners, etc.
 * Get [Big Shoulders Text](https://fonts.google.com/specimen/Big+Shoulders+Text) for all other display purposes.
 * Get [Roboto](https://fonts.google.com/specimen/Roboto) and [Lora](https://fonts.google.com/specimen/Lora), the City's sans serif and serif body typefaces.
-* [Download the mark](/assets/downloads/PUBLIC-MARK-CHICAGO.zip) or use the Figma files.
+*  use the Figma files.
 
 ## Resources
 
