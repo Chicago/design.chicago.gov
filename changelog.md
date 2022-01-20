@@ -35,7 +35,7 @@ _Beginning in February, changelog will be updated on Thursdays._
 
 #### 2020-02-20, 2-27 Thursday
 
-* Cranking away for launch. Policy & Strategery.
+* Cranking away for launch. Policy & Strategy.
 
 #### 2020-02-13 Thursday
 
@@ -62,7 +62,7 @@ _Beginning in February, changelog will be updated on Thursdays._
 * Design support for launch of the Chicago Design System. Launch upcoming.
 * Finished presentation for Config, the first Figma conference. Very excited.
 * Worked with 311 and OEMC on logo lockups for new print and social designs they have coming out. Rad!
-* In progress on producing an overaall viewpoint for our teams (AIS) to use in responding to branding questions from departments.
+* In progress on producing an overall viewpoint for our teams (AIS) to use in responding to branding questions from departments.
 
 
 

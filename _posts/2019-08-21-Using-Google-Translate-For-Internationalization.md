@@ -37,7 +37,7 @@ Getting an API Key from Google was a bit more difficult than expected. I strongl
 
 ### The Translate Button
 
-Clicking the translate buttion initiates the API call. All of the translation code happens inside the function:
+Clicking the translate button initiates the API call. All of the translation code happens inside the function:
 
 ```js
 $("#translateButton").click(function () {...}
