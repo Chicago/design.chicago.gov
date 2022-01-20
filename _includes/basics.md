@@ -15,9 +15,8 @@ There you can download Big Shoulders, our free, open source municipal typeface f
 
 ![Full Chicago Star with Construction Marks](/assets/img/full-star-with-circles.png)
 
-## Colors
 
-[Download color swatch (.zip file)](/assets/downloads/chicago-design-system-colors-20190925.zip)
+
 
 {% include colors-list.html %}
 
