@@ -22,11 +22,9 @@ The Digital Services team works to make city services more accessible and inclus
 * Improve City resources through projects like redesigning the [311 portal](https://311.chicago.gov) and the [Chicago Design System](https://chicagodesignsystem.org).
 * Engage with residents through user-centered research and by making digital content.
 
-
 ## Who we are
 
 We are a small team of developers and web designers. We are in the middle of an IT transformation, which includes adding new members to our Digital Services team and transforming the way we work. We stand on the shoulders of giants like [USDS](https://www.usds.gov/), [18F](https://18f.gsa.gov/), NYC’s [Gov Lab](https://www1.nyc.gov/assets/doitt/html/govlabstudio/index.html) and [Service Design Studio](https://www1.nyc.gov/site/opportunity/portfolio/service-design-studio.page), [de Waag in Amsterdam](https://waag.org/), [the Lab at OPM](https://lab.opm.gov/), [the United Kingdom’s Digital Services team](https://www.gov.uk/government/organisations/government-digital-service), and more. 
-
 
 ## Contact us
 doit@cityofchicago.org
