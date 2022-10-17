@@ -84,15 +84,4 @@ You can see all our [different Jekyll-based machinations here](https://github.co
 
 For employees, fonts should already be installed on your computer. If not, font installation may require your ITSC or someone with administrator rights to install them on your machine. Like, "buy them donuts" a lot of installs. But, once you do that, you can access our [City of Chicago internal style guide](https://cityofchicago.frontify.com/hub/2). Check it out for templates of all kinds to make your communication crisp.
 
-If you are interested in using this work in a technology project today, see the Developers section, above, for current status. Ask your ITSC for help, or ping us through the channels below. You can also visit our [Microsoft Teams channel here](https://teams.microsoft.com/l/channel/19%3a8ab7199f764c432bb95b8942a483d250%40thread.skype/General?groupId=95398257-9bb7-4cbe-bab4-c9cad0db2e2f&tenantId=7036cda9-062d-4151-8144-97ddc56e7027).
-
-
-# But wait, there's more!
-
-You can get involved by giving us feedback, [writing an issue](https://github.com/Chicago/design-system/issues/new), or [finding other ways to contribute](https://opensource.guide/how-to-contribute/).
-
-We communicate about this project in our [CDS Slack workspace](https://chicagodesignsystem.slack.com/messages). Request an invitation by emailing us at [Chicago Design System](mailto:design.system@cityofchicago.org) or using our [shared invite link](https://join.slack.com/t/chicagodesignsystem/shared_invite/enQtMzM2OTA4MTQyNzIzLWVlOWFkOWQ4YWE0NWQ2YTAzOTFmYWFlMGVjNTEwZjA5ZWNmYjFkZTNhNDNhMmM1MTJiYmQ3MDk2NWZkNzg2Mjg). Mostly
-
-Email design.system at cityofchicago.org to connect.
-
-
+If you are interested in using this work in a technology project today, see the Developers section, above, for current status. Ask your ITSC for help.
