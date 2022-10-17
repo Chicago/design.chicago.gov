@@ -8,8 +8,6 @@ sidenav:
     href: '/about-us/#what-we-do'
   - text: Who we are
     href: '/about-us/#who-we-are'
-  - text: Our team
-    href: '/about-us/#our-team'
   - text: Contact us
     href: '/about-us/#contact-us'
 sticky_sidenav: true
