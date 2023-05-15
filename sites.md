@@ -11,5 +11,5 @@ The following sites use the Chicago Design System:
 
 * [Census 2020](https://chicago.github.io/census2020/)
 * [design.chicago.gov](https://design.chicago.gov/)
-* [Moving Chicago Forward](https://movingforward.chicago.gov/)
 * [Resilient Chicago](https://resilient.chicago.gov/)
+
