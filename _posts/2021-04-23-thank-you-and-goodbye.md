@@ -10,7 +10,7 @@ published: true
 
 # Thank you (and Goodbye)!
 
-I have been known to make short stories long. I won't do that here. Posting this message is my last offical act for the City.
+I have been known to make short stories long. I won't do that here. Posting this message is my last official act for the City.
 
 It has been a privilege beyond belief to serve Chicagoans, and it saddens me greatly to tell you I am leaving your official service. As a product of the social safety net of our fair town, this work has been a dream come true. But dreamers wake, and owe it to themselves to see reality as it is, not as they wish it were.
 

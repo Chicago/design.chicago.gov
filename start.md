@@ -19,7 +19,7 @@ The Chicago Design System (CDS) is a guide to producing delightful information, 
 
 In addition, this is the first municipal design system built for the public and government use. This is a platform that allows people to express their personal, community, and civic pride in Chicago. It gives the City of Chicago clearer, more effective communications through a uniform identity people can recognize and trust.
 
-The design system is made up of elements ilke our public mark, our new civic typeface, colors, secondary type families, and internet widgets. It includes the mark, document template, interactive prototypes, and the code to make a website. There's also a set of recipes to use for human-centered design work on your project.
+The design system is made up of elements like our public mark, our new civic typeface, colors, secondary type families, and internet widgets. It includes the mark, document template, interactive prototypes, and the code to make a website. There's also a set of recipes to use for human-centered design work on your project.
 
 ## Everyone
 
@@ -53,12 +53,12 @@ Now, you can turn on all our municipal typefaces and design away:
 
 To make an actual, honest-to-goodness Chicago Star in your typesetting, turn on discretionary ligatures in your app or CSS, and then type CHISTAR (in all caps). It’ll automatically replace with the star, sized correctly to fit the text.
 
-<p>Now, you can make ASCII art, or get tatooed with exactly the right Chicago Star.</p>
+<p>Now, you can make ASCII art, or get tattooed with exactly the right Chicago Star.</p>
 <p>=======</p>
 <p class="chistar">CHISTAR CHISTAR CHISTAR CHISTAR</p>
 <p>=======</p>
 
-If that didn't work, these images show the difference betweeen turning ligatures on and off. In this case, in Figma.
+If that didn't work, these images show the difference between turning ligatures on and off. In this case, in Figma.
 
 ![](/assets/img/CHISTAR-1.png)
 _Ligatures off, CHISTAR._
