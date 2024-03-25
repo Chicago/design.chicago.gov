@@ -7,13 +7,3 @@ Jason Kunesh 9/2019
 
 {% endcomment %}
 
-{% assign footer-type = footer.type %}
-{% if page.footer %}
-  {% assign footer-type = page.footer %}
-{% endif %}
-
-{% if footer-type == 'medium' %}
-  {% include components/footer--medium.html %}
-{% elsif footer-type == 'splash' %}
-  {% include components/footer--splash.html %}
-{% endif %}
