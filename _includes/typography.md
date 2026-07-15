@@ -15,18 +15,17 @@ The next level up is to install the fonts on your own computer. The latest versi
 
 ## Resources
 
-* Get [Big Shoulders Display](https://fonts.google.com/specimen/Big+Shoulders+Display) for large format, environmental prints: signage, billboards, banners, etc.
-* Get [Big Shoulders Text](https://fonts.google.com/specimen/Big+Shoulders+Text) for all other display purposes.
+* Get [Big Shoulders Display](https://fonts.google.com/specimen/Big+Shoulders+Display) for large format, environmental prints: signage, billboards, banners, etc. Heavier font weights are recommended for large format, environmental prints: signage, billboards, banners, etc. While regular font weight is recommended for all other display purposes.
 * Get [Roboto](https://fonts.google.com/specimen/Roboto) and [Lora](https://fonts.google.com/specimen/Lora), the City's sans serif and serif body typefaces.
 
 To put a Chicago Star in your typesetting, turn on discretionary ligatures in your app or CSS, and then type CHISTAR (in all caps). It’ll automatically replace with the star, sized correctly to fit the text.
 
-<p>Now, you can make ASCII art, or get tatooed with exactly the right Chicago Star.</p>
+<p>Now, you can make ASCII art, or get tattooed with exactly the right Chicago Star.</p>
 <p>=======</p>
 <p class="chistar">CHISTAR CHISTAR CHISTAR CHISTAR</p>
 <p>=======</p>
 
-If that didn't work, these images show the difference betweeen turning ligatures on and off. In this case, in Figma.
+If that didn't work, these images show the difference between turning ligatures on and off. In this case, in Figma.
 
 ![](/assets/img/CHISTAR-1.png)
 _Ligatures off, CHISTAR._

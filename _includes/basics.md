@@ -1,6 +1,6 @@
 ## The Star
 
-The Chicago star is 14 inches tall with six points drawn from a circle six inches in diameter. The star’s points should be  at 30 degree angles.
+The Chicago star is 14 inches tall with six points drawn from a circle six inches in diameter. The star’s points should be at 30 degree angles.
 See [The Chicago Municipal Code](http://library.amlegal.com/nxt/gateway.dll/Illinois/chicago_il/municipalcodeofchicago?f=templates$fn=default.htm$3.0$vid=amlegal:chicago_il) CHAPTER 1-8 CORPORATE SEAL AND EMBLEMS. Specifically, sections 020 and 030 concerning the "Design of flag, emblems and badges" and "Municipal flag – Design requirements," respectively.
 
 Now, you are probably thinking to yourself, "Shut up and just give me the star so I can get a tattoo already!"

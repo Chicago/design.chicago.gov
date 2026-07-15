@@ -19,7 +19,7 @@ The Digital Services team works to make city services more accessible and inclus
 
 * Provide design resources and expertise on UX projects within city government.
 * Champion accessibility across City digital products and services in partnership with the Mayor's Office for People with Disabilities.
-* Improve City resources through projects like redesigning the [311 portal](https://311.chicago.gov) and the [Chicago Design System](https://chicagodesignsystem.org).
+* Improve City resources through projects like redesigning the [311 portal](https://311.chicago.gov) and the [Chicago Design System](https://design.chicago.gov).
 * Engage with residents through user-centered research and by making digital content.
 
 ## Who we are

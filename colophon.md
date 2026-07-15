@@ -7,7 +7,7 @@ A colophon describes the methods, tools, and materials used to make a creative w
 
 ## History
 
-This version of the site was produced in May 2019, beginning as a reference implementation of the [Chicago Design System](http://chicagodesignsystem.org/). Highlights include a new brand and visual language and a more [accessible experience for Chicagoans](/accessibility). It was produced to support a consistent and predictable user experience across all our applications and services.
+This version of the site was produced in May 2019, beginning as a reference implementation of the [Chicago Design System](http://design.chicago.gov/). Highlights include a new brand and visual language and a more [accessible experience for Chicagoans](/accessibility). It was produced to support a consistent and predictable user experience across all our applications and services.
 
 ## Technology
 
@@ -15,7 +15,7 @@ This site is hosted on [GitHub Pages](https://pages.github.com/). It is produced
 
 The Chicago Design System code is forked, or built upon, the [U.S. Web Design System](https://designsystem.digital.gov/) ([View the USDS code on GitHub](https://github.com/uswds/uswds)).
 
-Learn more about the City of Chicago's source code for the [Chicago Design System](http://chicagodesignsystem.org/) and other projects at our [GitHub profile](https://github.com/Chicago).
+Learn more about the City of Chicago's source code for the [Chicago Design System](http://design.chicago.gov/) and other projects at our [GitHub profile](https://github.com/Chicago).
 
 ## Design & imagery
 

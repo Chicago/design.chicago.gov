@@ -52,6 +52,6 @@ The Chicago Design system methods shows you the Chicago way of development and p
 
 Check back regularly, as the processes and services we offer may change, and we are always working on updates to our playbook.
 
-[See our Design methods](https://methods.chicagodesignsystem.org){: .usa-button .usa-button-medium }
+[See our design methods](https://chicago.github.io/design-methods/){: .usa-button .usa-button-medium }
 
 
