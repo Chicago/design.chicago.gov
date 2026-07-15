@@ -11,7 +11,11 @@ Here's all the new and wonderful stuff the [Design Office](https://design.chicag
 
 ![David Bowie Changes album cover](/assets/img/Bowiechanges2.jpg)
 
+### July
 
+#### 2026-07-14, Tuesday
+
+* Updating old Chicago Design and Google fonts links
 
 ### April
 
