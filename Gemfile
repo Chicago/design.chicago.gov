@@ -6,16 +6,18 @@ source "https://rubygems.org"
 #
 #     bundle exec jekyll serve
 #
-gem "jekyll", ">= 4.0.0"
+gem "jekyll", "~> 4.0.0"
 gem "kramdown", ">= 2.3.1"
+gem "webrick", "~> 1.8"
 # gem "github-pages", group: :jekyll_plugins
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"
-  gem "jekyll-remote-theme"
+  gem "jekyll-remote-theme", "~> 0.4.3"
   gem "nokogiri", ">= 1.11"
 end
+
 gem "rubyzip", ">= 1.3.0"
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem "tzinfo-data", platforms: [:mingw, :mswin, :x64_mingw, :jruby]
